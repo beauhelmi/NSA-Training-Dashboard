@@ -415,7 +415,19 @@ function WeeklyPanel({ weeklyData }) {
           }}>{key === "totalKm" ? "Volume" : key === "avgHR" ? "Avg HR" : "Avg Pace"}</button>
         ))}
       </div>
-
+      <Insight>
+        <strong>{weeklyData.length} weeks of training:</strong> You covered {totalKmAll.toFixed(0)} km
+        total, peaking at {peakWeek.totalKm} km in Week {peakWeek.week} ({peakWeek.weekStart}).
+        {(() => {
+          const low = weeklyData.filter(w => w.totalKm < 30);
+          const lowest = low.length ? low.reduce((a,b) => a.totalKm < b.totalKm ? a : b) : null;
+          const rampWeek = weeklyData.find(w => w.week > (lowest?.week || 0) && w.totalKm > 45);
+          return lowest ? ` Week ${lowest.week} was your lowest volume week at ${lowest.totalKm} km${
+            rampWeek ? `, before ramping back up from Week ${rampWeek.week} onwards` : ""
+          }.` : "";
+        })()}
+        {" "}Avg {avgRuns} runs per week across the full block.
+      </Insight>  
       <ResponsiveContainer width="100%" height={280}>
         <BarChart data={weeklyData} margin={{ top:5, right:20, left:0, bottom:5 }}>
           <CartesianGrid strokeDasharray="3 3" stroke="#f0f0f0" />
@@ -453,11 +465,6 @@ function WeeklyPanel({ weeklyData }) {
           </tbody>
         </table>
       </div>
-
-      <Insight>
-        <strong>{weeklyData.length} weeks of training:</strong> {totalKmAll.toFixed(0)} km total.
-        Peak was {peakWeek.totalKm} km in Week {peakWeek.week}. This updates is automatic. 
-      </Insight>
     </div>
   );
 }
