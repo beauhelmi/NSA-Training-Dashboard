@@ -1,0 +1,3940 @@
+[
+  {
+    "id": "i111803753",
+    "date": "2025-07-28",
+    "week": 1,
+    "name": "Early morning Run",
+    "tags": [
+      "easy runs"
+    ],
+    "avgHR": 126,
+    "intensity": null,
+    "distance": 7.01,
+    "movingTime": 2988,
+    "pace": 7.105,
+    "duration": null,
+    "reps": null,
+    "intervalPace": null
+  },
+  {
+    "id": "i111803757",
+    "date": "2025-07-29",
+    "week": 1,
+    "name": "Early morning Run",
+    "tags": [
+      "easy runs"
+    ],
+    "avgHR": 124,
+    "intensity": null,
+    "distance": 7.0,
+    "movingTime": 2947,
+    "pace": 7.012,
+    "duration": null,
+    "reps": null,
+    "intervalPace": null
+  },
+  {
+    "id": "i89790498",
+    "date": "2025-07-30",
+    "week": 1,
+    "name": "3 x 10' (5:23, 5:26, 5:31) + July Babies THBR celebration 🥳🎉 ",
+    "tags": [
+      "SubT"
+    ],
+    "avgHR": 152,
+    "intensity": null,
+    "distance": 8.1,
+    "movingTime": 2990,
+    "pace": 6.152,
+    "duration": 10,
+    "reps": 3,
+    "intervalPace": 5.444
+  },
+  {
+    "id": "i90017230",
+    "date": "2025-07-31",
+    "week": 1,
+    "name": "Evening Run",
+    "tags": [
+      "easy runs"
+    ],
+    "avgHR": 134,
+    "intensity": null,
+    "distance": 4.71,
+    "movingTime": 1949,
+    "pace": 6.898,
+    "duration": null,
+    "reps": null,
+    "intervalPace": null
+  },
+  {
+    "id": "i90170019",
+    "date": "2025-08-01",
+    "week": 1,
+    "name": "Afternoon Run",
+    "tags": [
+      "easy runs"
+    ],
+    "avgHR": 134,
+    "intensity": null,
+    "distance": 4.01,
+    "movingTime": 1688,
+    "pace": 7.024,
+    "duration": null,
+    "reps": null,
+    "intervalPace": null
+  },
+  {
+    "id": "i90108922",
+    "date": "2025-08-01",
+    "week": 1,
+    "name": "Morning Run",
+    "tags": [
+      "easy runs"
+    ],
+    "avgHR": 126,
+    "intensity": null,
+    "distance": 7.01,
+    "movingTime": 2970,
+    "pace": 7.066,
+    "duration": null,
+    "reps": null,
+    "intervalPace": null
+  },
+  {
+    "id": "i90268208",
+    "date": "2025-08-02",
+    "week": 1,
+    "name": "4 x 6' (5:20, 5:13, 5:17, 5:12)",
+    "tags": [
+      "SubT"
+    ],
+    "avgHR": 146,
+    "intensity": null,
+    "distance": 7.85,
+    "movingTime": 2878,
+    "pace": 6.109,
+    "duration": 6,
+    "reps": 4,
+    "intervalPace": 5.258
+  },
+  {
+    "id": "i90423882",
+    "date": "2025-08-03",
+    "week": 1,
+    "name": "Morning Run",
+    "tags": [
+      "easy runs"
+    ],
+    "avgHR": 129,
+    "intensity": null,
+    "distance": 9.07,
+    "movingTime": 3797,
+    "pace": 6.981,
+    "duration": null,
+    "reps": null,
+    "intervalPace": null
+  },
+  {
+    "id": "i90575268",
+    "date": "2025-08-04",
+    "week": 2,
+    "name": "Morning Run",
+    "tags": [
+      "easy runs"
+    ],
+    "avgHR": 128,
+    "intensity": null,
+    "distance": 7.01,
+    "movingTime": 2902,
+    "pace": 6.902,
+    "duration": null,
+    "reps": null,
+    "intervalPace": null
+  },
+  {
+    "id": "i90724064",
+    "date": "2025-08-05",
+    "week": 2,
+    "name": "8x3' (5:09, 5:05, 5:01, 5:09, 5:02, 5:09,  5:00, 5:00)",
+    "tags": [
+      "SubT"
+    ],
+    "avgHR": 143,
+    "intensity": null,
+    "distance": 8.28,
+    "movingTime": 3018,
+    "pace": 6.073,
+    "duration": 3,
+    "reps": 8,
+    "intervalPace": 5.073
+  },
+  {
+    "id": "i90892924",
+    "date": "2025-08-06",
+    "week": 2,
+    "name": "Morning Run with THBR",
+    "tags": [
+      "easy runs"
+    ],
+    "avgHR": 125,
+    "intensity": null,
+    "distance": 10.0,
+    "movingTime": 4412,
+    "pace": 7.351,
+    "duration": null,
+    "reps": null,
+    "intervalPace": null
+  },
+  {
+    "id": "i91082117",
+    "date": "2025-08-07",
+    "week": 2,
+    "name": "2 x 10'(5:11, 5:19)",
+    "tags": [
+      "SubT"
+    ],
+    "avgHR": 136,
+    "intensity": null,
+    "distance": 8.03,
+    "movingTime": 2964,
+    "pace": 6.154,
+    "duration": 10,
+    "reps": 2,
+    "intervalPace": 5.25
+  },
+  {
+    "id": "i91244116",
+    "date": "2025-08-08",
+    "week": 2,
+    "name": "Morning Run",
+    "tags": [
+      "easy runs"
+    ],
+    "avgHR": 128,
+    "intensity": null,
+    "distance": 7.0,
+    "movingTime": 2941,
+    "pace": 6.999,
+    "duration": null,
+    "reps": null,
+    "intervalPace": null
+  },
+  {
+    "id": "i91379186",
+    "date": "2025-08-09",
+    "week": 2,
+    "name": "4 x 6' (5:09, 5:18, 5:15, 5:13)",
+    "tags": [
+      "SubT"
+    ],
+    "avgHR": 137,
+    "intensity": null,
+    "distance": 6.65,
+    "movingTime": 2399,
+    "pace": 6.012,
+    "duration": 6,
+    "reps": 4,
+    "intervalPace": 5.229
+  },
+  {
+    "id": "i91526059",
+    "date": "2025-08-10",
+    "week": 2,
+    "name": "Night Run",
+    "tags": [
+      "easy runs"
+    ],
+    "avgHR": 120,
+    "intensity": null,
+    "distance": 10.01,
+    "movingTime": 4331,
+    "pace": 7.215,
+    "duration": null,
+    "reps": null,
+    "intervalPace": null
+  },
+  {
+    "id": "i91693581",
+    "date": "2025-08-11",
+    "week": 3,
+    "name": "Morning Run",
+    "tags": [
+      "easy runs"
+    ],
+    "avgHR": 125,
+    "intensity": null,
+    "distance": 7.0,
+    "movingTime": 2890,
+    "pace": 6.877,
+    "duration": null,
+    "reps": null,
+    "intervalPace": null
+  },
+  {
+    "id": "i91837600",
+    "date": "2025-08-12",
+    "week": 3,
+    "name": "2 x 12' (5:20, 5:27)",
+    "tags": [
+      "SubT"
+    ],
+    "avgHR": 143,
+    "intensity": null,
+    "distance": 8.02,
+    "movingTime": 2909,
+    "pace": 6.047,
+    "duration": 12,
+    "reps": 2,
+    "intervalPace": 5.392
+  },
+  {
+    "id": "i92029717",
+    "date": "2025-08-13",
+    "week": 3,
+    "name": "Morning Run with THBR",
+    "tags": [
+      "easy runs"
+    ],
+    "avgHR": 131,
+    "intensity": null,
+    "distance": 7.01,
+    "movingTime": 2950,
+    "pace": 7.018,
+    "duration": null,
+    "reps": null,
+    "intervalPace": null
+  },
+  {
+    "id": "i92224115",
+    "date": "2025-08-14",
+    "week": 3,
+    "name": "4 x 6 mins (5:09, 5:10, 5:12, 5:06)",
+    "tags": [
+      "SubT"
+    ],
+    "avgHR": 141,
+    "intensity": null,
+    "distance": 8.0,
+    "movingTime": 2926,
+    "pace": 6.092,
+    "duration": 6,
+    "reps": 4,
+    "intervalPace": 5.154
+  },
+  {
+    "id": "i92395317",
+    "date": "2025-08-15",
+    "week": 3,
+    "name": "Early morning Run",
+    "tags": [
+      "easy runs"
+    ],
+    "avgHR": 122,
+    "intensity": null,
+    "distance": 7.01,
+    "movingTime": 2670,
+    "pace": 6.348,
+    "duration": null,
+    "reps": null,
+    "intervalPace": null
+  },
+  {
+    "id": "i92543215",
+    "date": "2025-08-16",
+    "week": 3,
+    "name": "8 x 3mins (5:15, 4:47, 4:38,4:59,4:59, 4:59, 4:59, 4:59)",
+    "tags": [
+      "SubT"
+    ],
+    "avgHR": 141,
+    "intensity": null,
+    "distance": 8.03,
+    "movingTime": 2691,
+    "pace": 5.585,
+    "duration": 3,
+    "reps": 8,
+    "intervalPace": 4.948
+  },
+  {
+    "id": "i92769879",
+    "date": "2025-08-17",
+    "week": 3,
+    "name": "Afternoon Run",
+    "tags": [
+      "easy runs"
+    ],
+    "avgHR": 138,
+    "intensity": null,
+    "distance": 8.51,
+    "movingTime": 3712,
+    "pace": 7.274,
+    "duration": null,
+    "reps": null,
+    "intervalPace": null
+  },
+  {
+    "id": "i92920956",
+    "date": "2025-08-18",
+    "week": 4,
+    "name": "Afternoon Run",
+    "tags": [
+      "easy runs"
+    ],
+    "avgHR": 122,
+    "intensity": null,
+    "distance": 3.0,
+    "movingTime": 1086,
+    "pace": 6.033,
+    "duration": null,
+    "reps": null,
+    "intervalPace": null
+  },
+  {
+    "id": "i92869020",
+    "date": "2025-08-18",
+    "week": 4,
+    "name": "Early morning Run",
+    "tags": [
+      "easy runs"
+    ],
+    "avgHR": 119,
+    "intensity": null,
+    "distance": 7.0,
+    "movingTime": 3083,
+    "pace": 7.337,
+    "duration": null,
+    "reps": null,
+    "intervalPace": null
+  },
+  {
+    "id": "i93050685",
+    "date": "2025-08-19",
+    "week": 4,
+    "name": "4 x 6mins (5:07, 5:13, 5:18, 5:18)",
+    "tags": [
+      "SubT"
+    ],
+    "avgHR": 148,
+    "intensity": null,
+    "distance": 7.01,
+    "movingTime": 2552,
+    "pace": 6.07,
+    "duration": 6,
+    "reps": 4,
+    "intervalPace": 5.233
+  },
+  {
+    "id": "i93282087",
+    "date": "2025-08-20",
+    "week": 4,
+    "name": "Afternoon Run",
+    "tags": [
+      "SubT"
+    ],
+    "avgHR": 125,
+    "intensity": null,
+    "distance": 7.01,
+    "movingTime": 2543,
+    "pace": 6.046,
+    "duration": null,
+    "reps": null,
+    "intervalPace": null
+  },
+  {
+    "id": "i93210602",
+    "date": "2025-08-20",
+    "week": 4,
+    "name": "Early morning Run",
+    "tags": [
+      "easy runs"
+    ],
+    "avgHR": 96,
+    "intensity": null,
+    "distance": 8.39,
+    "movingTime": 5127,
+    "pace": 10.189,
+    "duration": null,
+    "reps": null,
+    "intervalPace": null
+  },
+  {
+    "id": "i93387380",
+    "date": "2025-08-21",
+    "week": 4,
+    "name": "8 x 3mins (5:00, 4:52, 4:56, 4:51, 4:57, 5:02, 4:42, 4:57)",
+    "tags": [
+      "SubT"
+    ],
+    "avgHR": 141,
+    "intensity": null,
+    "distance": 9.02,
+    "movingTime": 3310,
+    "pace": 6.116,
+    "duration": 3,
+    "reps": 8,
+    "intervalPace": 4.91
+  },
+  {
+    "id": "i93556064",
+    "date": "2025-08-22",
+    "week": 4,
+    "name": "Early morning Run",
+    "tags": [
+      "SubT"
+    ],
+    "avgHR": 125,
+    "intensity": null,
+    "distance": 7.0,
+    "movingTime": 2897,
+    "pace": 6.894,
+    "duration": null,
+    "reps": null,
+    "intervalPace": null
+  },
+  {
+    "id": "i93727006",
+    "date": "2025-08-23",
+    "week": 4,
+    "name": "2 x 12mins (5:16, 5:17)",
+    "tags": [
+      "SubT"
+    ],
+    "avgHR": 141,
+    "intensity": null,
+    "distance": 8.01,
+    "movingTime": 2961,
+    "pace": 6.165,
+    "duration": 12,
+    "reps": 2,
+    "intervalPace": 5.275
+  },
+  {
+    "id": "i93886754",
+    "date": "2025-08-24",
+    "week": 4,
+    "name": "Early morning Run",
+    "tags": [
+      "easy runs"
+    ],
+    "avgHR": 129,
+    "intensity": null,
+    "distance": 10.0,
+    "movingTime": 4205,
+    "pace": 7.005,
+    "duration": null,
+    "reps": null,
+    "intervalPace": null
+  },
+  {
+    "id": "i94061728",
+    "date": "2025-08-25",
+    "week": 5,
+    "name": "Early morning Run",
+    "tags": [
+      "easy runs"
+    ],
+    "avgHR": 129,
+    "intensity": null,
+    "distance": 7.01,
+    "movingTime": 2819,
+    "pace": 6.705,
+    "duration": null,
+    "reps": null,
+    "intervalPace": null
+  },
+  {
+    "id": "i94226393",
+    "date": "2025-08-26",
+    "week": 5,
+    "name": "8 x 3' (4:42, 4:44, 4:48, 4:32, 5:10, 4:38, 4:46, 4:57)",
+    "tags": [
+      "SubT"
+    ],
+    "avgHR": 145,
+    "intensity": null,
+    "distance": 9.0,
+    "movingTime": 3226,
+    "pace": 5.971,
+    "duration": 3,
+    "reps": 8,
+    "intervalPace": 4.785
+  },
+  {
+    "id": "i94402233",
+    "date": "2025-08-27",
+    "week": 5,
+    "name": "Early morning Run",
+    "tags": [
+      "easy runs"
+    ],
+    "avgHR": 122,
+    "intensity": null,
+    "distance": 5.85,
+    "movingTime": 2688,
+    "pace": 7.662,
+    "duration": null,
+    "reps": null,
+    "intervalPace": null
+  },
+  {
+    "id": "i94588407",
+    "date": "2025-08-28",
+    "week": 5,
+    "name": "4 x 6'/90\" (4:58m, 4:58, 5:07, 4:58)",
+    "tags": [
+      "SubT"
+    ],
+    "avgHR": 152,
+    "intensity": null,
+    "distance": 8.77,
+    "movingTime": 3129,
+    "pace": 5.947,
+    "duration": 6,
+    "reps": 4,
+    "intervalPace": 5.004
+  },
+  {
+    "id": "i94817169",
+    "date": "2025-08-29",
+    "week": 5,
+    "name": "Afternoon Run",
+    "tags": [
+      "easy runs"
+    ],
+    "avgHR": 133,
+    "intensity": null,
+    "distance": 5.1,
+    "movingTime": 1797,
+    "pace": 5.876,
+    "duration": null,
+    "reps": null,
+    "intervalPace": null
+  },
+  {
+    "id": "i94771683",
+    "date": "2025-08-29",
+    "week": 5,
+    "name": "Early morning Run",
+    "tags": [
+      "easy runs"
+    ],
+    "avgHR": 129,
+    "intensity": null,
+    "distance": 7.0,
+    "movingTime": 2795,
+    "pace": 6.651,
+    "duration": null,
+    "reps": null,
+    "intervalPace": null
+  },
+  {
+    "id": "i94929035",
+    "date": "2025-08-30",
+    "week": 5,
+    "name": "2x12'/2' (5:07, 5:11)",
+    "tags": [
+      "SubT"
+    ],
+    "avgHR": 147,
+    "intensity": null,
+    "distance": 9.25,
+    "movingTime": 3383,
+    "pace": 6.093,
+    "duration": 12,
+    "reps": 2,
+    "intervalPace": 5.15
+  },
+  {
+    "id": "i95057072",
+    "date": "2025-08-31",
+    "week": 5,
+    "name": "Early morning Run",
+    "tags": [
+      "easy runs"
+    ],
+    "avgHR": 129,
+    "intensity": null,
+    "distance": 11.01,
+    "movingTime": 4661,
+    "pace": 7.057,
+    "duration": null,
+    "reps": null,
+    "intervalPace": null
+  },
+  {
+    "id": "i95247027",
+    "date": "2025-09-01",
+    "week": 6,
+    "name": "Morning Run",
+    "tags": [
+      "easy runs"
+    ],
+    "avgHR": 126,
+    "intensity": null,
+    "distance": 7.02,
+    "movingTime": 2998,
+    "pace": 7.117,
+    "duration": null,
+    "reps": null,
+    "intervalPace": null
+  },
+  {
+    "id": "i95396806",
+    "date": "2025-09-02",
+    "week": 6,
+    "name": "8 x 3mins (5:07, 4:49, 4:47, 4:42, 4:45, 4:36, 4:44, 4:35)",
+    "tags": [],
+    "avgHR": 143,
+    "intensity": null,
+    "distance": 8.65,
+    "movingTime": 2996,
+    "pace": 5.772,
+    "duration": 3,
+    "reps": 8,
+    "intervalPace": 4.76
+  },
+  {
+    "id": "i95831873",
+    "date": "2025-09-04",
+    "week": 6,
+    "name": "4 x 7mins (5:01, 5:00, 5:00, 5:00)",
+    "tags": [
+      "SubT"
+    ],
+    "avgHR": 149,
+    "intensity": null,
+    "distance": 8.33,
+    "movingTime": 2677,
+    "pace": 5.358,
+    "duration": 7,
+    "reps": 4,
+    "intervalPace": 5.004
+  },
+  {
+    "id": "i95946945",
+    "date": "2025-09-05",
+    "week": 6,
+    "name": "Morning Run",
+    "tags": [
+      "easy runs"
+    ],
+    "avgHR": 126,
+    "intensity": null,
+    "distance": 7.25,
+    "movingTime": 2994,
+    "pace": 6.881,
+    "duration": null,
+    "reps": null,
+    "intervalPace": null
+  },
+  {
+    "id": "i96105106",
+    "date": "2025-09-06",
+    "week": 6,
+    "name": "3 x 10'/90\" (5:11, 5:11, 5:13)",
+    "tags": [
+      "SubT"
+    ],
+    "avgHR": 154,
+    "intensity": null,
+    "distance": 8.47,
+    "movingTime": 2996,
+    "pace": 5.893,
+    "duration": 10,
+    "reps": 3,
+    "intervalPace": 5.194
+  },
+  {
+    "id": "i96252212",
+    "date": "2025-09-07",
+    "week": 6,
+    "name": "Early morning Run",
+    "tags": [
+      "easy runs"
+    ],
+    "avgHR": 130,
+    "intensity": null,
+    "distance": 13.06,
+    "movingTime": 5398,
+    "pace": 6.89,
+    "duration": null,
+    "reps": null,
+    "intervalPace": null
+  },
+  {
+    "id": "i96412975",
+    "date": "2025-09-08",
+    "week": 7,
+    "name": "Early morning Run",
+    "tags": [
+      "easy runs"
+    ],
+    "avgHR": 130,
+    "intensity": null,
+    "distance": 7.29,
+    "movingTime": 2998,
+    "pace": 6.854,
+    "duration": null,
+    "reps": null,
+    "intervalPace": null
+  },
+  {
+    "id": "i96560903",
+    "date": "2025-09-09",
+    "week": 7,
+    "name": "4 x 7'/90\" (4:58, 5:02, 5:04, 5:14)",
+    "tags": [
+      "SubT"
+    ],
+    "avgHR": 147,
+    "intensity": null,
+    "distance": 8.48,
+    "movingTime": 2998,
+    "pace": 5.89,
+    "duration": 7,
+    "reps": 4,
+    "intervalPace": 5.075
+  },
+  {
+    "id": "i96756118",
+    "date": "2025-09-10",
+    "week": 7,
+    "name": "Morning Run",
+    "tags": [
+      "easy runs"
+    ],
+    "avgHR": 129,
+    "intensity": null,
+    "distance": 6.0,
+    "movingTime": 2399,
+    "pace": 6.664,
+    "duration": null,
+    "reps": null,
+    "intervalPace": null
+  },
+  {
+    "id": "i96890016",
+    "date": "2025-09-11",
+    "week": 7,
+    "name": "4 x 7' (5:03, 5:08, 5:05, 5:11)",
+    "tags": [
+      "SubT"
+    ],
+    "avgHR": 149,
+    "intensity": null,
+    "distance": 8.48,
+    "movingTime": 2996,
+    "pace": 5.887,
+    "duration": 7,
+    "reps": 4,
+    "intervalPace": 5.112
+  },
+  {
+    "id": "i96883839",
+    "date": "2025-09-11",
+    "week": 7,
+    "name": "Early morning Run",
+    "tags": [
+      "easy runs"
+    ],
+    "avgHR": 132,
+    "intensity": null,
+    "distance": 0.4,
+    "movingTime": 168,
+    "pace": 6.996,
+    "duration": null,
+    "reps": null,
+    "intervalPace": null
+  },
+  {
+    "id": "i97049299",
+    "date": "2025-09-12",
+    "week": 7,
+    "name": "Early morning Run",
+    "tags": [
+      "easy runs"
+    ],
+    "avgHR": 129,
+    "intensity": null,
+    "distance": 7.7,
+    "movingTime": 2998,
+    "pace": 6.491,
+    "duration": null,
+    "reps": null,
+    "intervalPace": null
+  },
+  {
+    "id": "i97181825",
+    "date": "2025-09-13",
+    "week": 7,
+    "name": "2x12minutes (5:11, 5:11)",
+    "tags": [
+      "SubT"
+    ],
+    "avgHR": 143,
+    "intensity": null,
+    "distance": 8.32,
+    "movingTime": 2996,
+    "pace": 6.002,
+    "duration": 12,
+    "reps": 2,
+    "intervalPace": 5.183
+  },
+  {
+    "id": "i97312419",
+    "date": "2025-09-14",
+    "week": 7,
+    "name": "Early morning Run",
+    "tags": [
+      "easy runs"
+    ],
+    "avgHR": 141,
+    "intensity": null,
+    "distance": 12.92,
+    "movingTime": 4941,
+    "pace": 6.373,
+    "duration": null,
+    "reps": null,
+    "intervalPace": null
+  },
+  {
+    "id": "i97519272",
+    "date": "2025-09-15",
+    "week": 8,
+    "name": "Night Run",
+    "tags": [
+      "easy runs"
+    ],
+    "avgHR": 130,
+    "intensity": null,
+    "distance": 4.43,
+    "movingTime": 1903,
+    "pace": 7.162,
+    "duration": null,
+    "reps": null,
+    "intervalPace": null
+  },
+  {
+    "id": "i97622548",
+    "date": "2025-09-16",
+    "week": 8,
+    "name": "2x6min (4:46, 4:46)",
+    "tags": [
+      "SubT"
+    ],
+    "avgHR": 156,
+    "intensity": null,
+    "distance": 3.35,
+    "movingTime": 1100,
+    "pace": 5.473,
+    "duration": 6,
+    "reps": 2,
+    "intervalPace": 4.767
+  },
+  {
+    "id": "i97729964",
+    "date": "2025-09-17",
+    "week": 8,
+    "name": "Morning Run",
+    "tags": [
+      "easy runs"
+    ],
+    "avgHR": 126,
+    "intensity": null,
+    "distance": 4.78,
+    "movingTime": 1919,
+    "pace": 6.693,
+    "duration": null,
+    "reps": null,
+    "intervalPace": null
+  },
+  {
+    "id": "i97729965",
+    "date": "2025-09-17",
+    "week": 8,
+    "name": "Morning Run",
+    "tags": [
+      "easy runs"
+    ],
+    "avgHR": 133,
+    "intensity": null,
+    "distance": 0.26,
+    "movingTime": 114,
+    "pace": 7.308,
+    "duration": null,
+    "reps": null,
+    "intervalPace": null
+  },
+  {
+    "id": "i97876060",
+    "date": "2025-09-18",
+    "week": 8,
+    "name": "Lunch Run",
+    "tags": [
+      "SubT"
+    ],
+    "avgHR": 148,
+    "intensity": null,
+    "distance": 3.74,
+    "movingTime": 1226,
+    "pace": 5.468,
+    "duration": null,
+    "reps": null,
+    "intervalPace": null
+  },
+  {
+    "id": "i98015124",
+    "date": "2025-09-19",
+    "week": 8,
+    "name": "Afternoon Run",
+    "tags": [
+      "easy runs"
+    ],
+    "avgHR": 133,
+    "intensity": null,
+    "distance": 3.5,
+    "movingTime": 1557,
+    "pace": 7.409,
+    "duration": null,
+    "reps": null,
+    "intervalPace": null
+  },
+  {
+    "id": "i97981919",
+    "date": "2025-09-19",
+    "week": 8,
+    "name": "Morning Run",
+    "tags": [
+      "easy runs"
+    ],
+    "avgHR": 127,
+    "intensity": null,
+    "distance": 4.54,
+    "movingTime": 1795,
+    "pace": 6.587,
+    "duration": null,
+    "reps": null,
+    "intervalPace": null
+  },
+  {
+    "id": "i98206129",
+    "date": "2025-09-20",
+    "week": 8,
+    "name": "Sarong Music Run ",
+    "tags": [
+      "easy runs"
+    ],
+    "avgHR": 121,
+    "intensity": null,
+    "distance": 5.02,
+    "movingTime": 3160,
+    "pace": 10.489,
+    "duration": null,
+    "reps": null,
+    "intervalPace": null
+  },
+  {
+    "id": "i98141999",
+    "date": "2025-09-20",
+    "week": 8,
+    "name": "Sarong Music Run 5k",
+    "tags": [
+      "RACE"
+    ],
+    "avgHR": 183,
+    "intensity": null,
+    "distance": 5.09,
+    "movingTime": 1334,
+    "pace": 4.365,
+    "duration": null,
+    "reps": null,
+    "intervalPace": null
+  },
+  {
+    "id": "i98142000",
+    "date": "2025-09-20",
+    "week": 8,
+    "name": "Afternoon Run",
+    "tags": [
+      "easy runs"
+    ],
+    "avgHR": 136,
+    "intensity": null,
+    "distance": 1.7,
+    "movingTime": 713,
+    "pace": 6.971,
+    "duration": null,
+    "reps": null,
+    "intervalPace": null
+  },
+  {
+    "id": "i98229594",
+    "date": "2025-09-21",
+    "week": 8,
+    "name": "Morning Run",
+    "tags": [
+      "easy runs"
+    ],
+    "avgHR": 90,
+    "intensity": null,
+    "distance": 2.0,
+    "movingTime": 1304,
+    "pace": 10.853,
+    "duration": null,
+    "reps": null,
+    "intervalPace": null
+  },
+  {
+    "id": "i98353791",
+    "date": "2025-09-22",
+    "week": 9,
+    "name": "Early morning Run",
+    "tags": [
+      "easy runs"
+    ],
+    "avgHR": 125,
+    "intensity": null,
+    "distance": 7.09,
+    "movingTime": 2997,
+    "pace": 7.048,
+    "duration": null,
+    "reps": null,
+    "intervalPace": null
+  },
+  {
+    "id": "i98500591",
+    "date": "2025-09-23",
+    "week": 9,
+    "name": "Early morning Run",
+    "tags": [
+      "easy runs"
+    ],
+    "avgHR": 125,
+    "intensity": null,
+    "distance": 7.64,
+    "movingTime": 2998,
+    "pace": 6.542,
+    "duration": null,
+    "reps": null,
+    "intervalPace": null
+  },
+  {
+    "id": "i98649927",
+    "date": "2025-09-24",
+    "week": 9,
+    "name": "8 x 4'/1' (4:45, 4:45, 4:53, 4:37, 4:53, 4:47, 4:40, 5:04)",
+    "tags": [
+      "SubT"
+    ],
+    "avgHR": 158,
+    "intensity": null,
+    "distance": 9.1,
+    "movingTime": 3013,
+    "pace": 5.519,
+    "duration": 4,
+    "reps": 8,
+    "intervalPace": 4.8
+  },
+  {
+    "id": "i98774269",
+    "date": "2025-09-25",
+    "week": 9,
+    "name": "Early morning Run",
+    "tags": [
+      "easy runs"
+    ],
+    "avgHR": 131,
+    "intensity": null,
+    "distance": 7.62,
+    "movingTime": 2999,
+    "pace": 6.559,
+    "duration": null,
+    "reps": null,
+    "intervalPace": null
+  },
+  {
+    "id": "i98947272",
+    "date": "2025-09-26",
+    "week": 9,
+    "name": "5 x 6' (5:01, 4:58, 4:54, 4:58, 5:07)",
+    "tags": [
+      "SubT"
+    ],
+    "avgHR": 147,
+    "intensity": null,
+    "distance": 10.3,
+    "movingTime": 3595,
+    "pace": 5.82,
+    "duration": 6,
+    "reps": 5,
+    "intervalPace": 4.993
+  },
+  {
+    "id": "i99072956",
+    "date": "2025-09-27",
+    "week": 9,
+    "name": "Early morning Run",
+    "tags": [
+      "easy runs"
+    ],
+    "avgHR": 125,
+    "intensity": null,
+    "distance": 12.0,
+    "movingTime": 5031,
+    "pace": 6.986,
+    "duration": null,
+    "reps": null,
+    "intervalPace": null
+  },
+  {
+    "id": "i99218666",
+    "date": "2025-09-28",
+    "week": 9,
+    "name": "3 x 12'/1'",
+    "tags": [
+      "SubT"
+    ],
+    "avgHR": 147,
+    "intensity": null,
+    "distance": 10.29,
+    "movingTime": 3596,
+    "pace": 5.827,
+    "duration": 12,
+    "reps": 3,
+    "intervalPace": null
+  },
+  {
+    "id": "i99348580",
+    "date": "2025-09-29",
+    "week": 10,
+    "name": "Easy",
+    "tags": [
+      "easy runs"
+    ],
+    "avgHR": 126,
+    "intensity": null,
+    "distance": 7.41,
+    "movingTime": 2997,
+    "pace": 6.742,
+    "duration": null,
+    "reps": null,
+    "intervalPace": null
+  },
+  {
+    "id": "i99480467",
+    "date": "2025-09-30",
+    "week": 10,
+    "name": "4 x 6' (4:56, 4:55, 4:57, 4:55)",
+    "tags": [
+      "SubT"
+    ],
+    "avgHR": 149,
+    "intensity": null,
+    "distance": 8.26,
+    "movingTime": 2877,
+    "pace": 5.806,
+    "duration": 6,
+    "reps": 4,
+    "intervalPace": 4.929
+  },
+  {
+    "id": "i99632608",
+    "date": "2025-10-01",
+    "week": 10,
+    "name": "Early morning Run",
+    "tags": [
+      "easy runs"
+    ],
+    "avgHR": 98,
+    "intensity": null,
+    "distance": 6.81,
+    "movingTime": 4425,
+    "pace": 10.83,
+    "duration": null,
+    "reps": null,
+    "intervalPace": null
+  },
+  {
+    "id": "i99794351",
+    "date": "2025-10-02",
+    "week": 10,
+    "name": "Early morning Run",
+    "tags": [
+      "easy runs"
+    ],
+    "avgHR": 124,
+    "intensity": null,
+    "distance": 4.75,
+    "movingTime": 1818,
+    "pace": 6.378,
+    "duration": null,
+    "reps": null,
+    "intervalPace": null
+  },
+  {
+    "id": "i100009191",
+    "date": "2025-10-03",
+    "week": 10,
+    "name": "Afternoon Run",
+    "tags": [
+      "easy runs"
+    ],
+    "avgHR": 137,
+    "intensity": null,
+    "distance": 2.63,
+    "movingTime": 1123,
+    "pace": 7.124,
+    "duration": null,
+    "reps": null,
+    "intervalPace": null
+  },
+  {
+    "id": "i100147389",
+    "date": "2025-10-04",
+    "week": 10,
+    "name": "Morning Run",
+    "tags": [
+      "easy runs"
+    ],
+    "avgHR": 147,
+    "intensity": null,
+    "distance": 1.46,
+    "movingTime": 628,
+    "pace": 7.166,
+    "duration": null,
+    "reps": null,
+    "intervalPace": null
+  },
+  {
+    "id": "i100135043",
+    "date": "2025-10-04",
+    "week": 10,
+    "name": "KLSCM 10K ",
+    "tags": [
+      "RACE"
+    ],
+    "avgHR": 174,
+    "intensity": null,
+    "distance": 10.39,
+    "movingTime": 2930,
+    "pace": 4.7,
+    "duration": null,
+    "reps": null,
+    "intervalPace": null
+  },
+  {
+    "id": "i100127154",
+    "date": "2025-10-04",
+    "week": 10,
+    "name": "Early morning Run",
+    "tags": [
+      "easy runs"
+    ],
+    "avgHR": 135,
+    "intensity": null,
+    "distance": 4.02,
+    "movingTime": 1637,
+    "pace": 6.795,
+    "duration": null,
+    "reps": null,
+    "intervalPace": null
+  },
+  {
+    "id": "i100304778",
+    "date": "2025-10-05",
+    "week": 10,
+    "name": "Early morning Run",
+    "tags": [
+      "easy runs"
+    ],
+    "avgHR": 119,
+    "intensity": null,
+    "distance": 5.73,
+    "movingTime": 2463,
+    "pace": 7.159,
+    "duration": null,
+    "reps": null,
+    "intervalPace": null
+  },
+  {
+    "id": "i100478291",
+    "date": "2025-10-06",
+    "week": 11,
+    "name": "Morning Run",
+    "tags": [
+      "easy runs"
+    ],
+    "avgHR": 126,
+    "intensity": null,
+    "distance": 5.77,
+    "movingTime": 2397,
+    "pace": 6.921,
+    "duration": null,
+    "reps": null,
+    "intervalPace": null
+  },
+  {
+    "id": "i100667399",
+    "date": "2025-10-07",
+    "week": 11,
+    "name": "Early morning Run",
+    "tags": [
+      "easy runs"
+    ],
+    "avgHR": 127,
+    "intensity": null,
+    "distance": 7.0,
+    "movingTime": 2817,
+    "pace": 6.706,
+    "duration": null,
+    "reps": null,
+    "intervalPace": null
+  },
+  {
+    "id": "i100839884",
+    "date": "2025-10-08",
+    "week": 11,
+    "name": "Early morning Run",
+    "tags": [
+      "easy runs"
+    ],
+    "avgHR": 122,
+    "intensity": null,
+    "distance": 10.0,
+    "movingTime": 4576,
+    "pace": 7.625,
+    "duration": null,
+    "reps": null,
+    "intervalPace": null
+  },
+  {
+    "id": "i101005633",
+    "date": "2025-10-09",
+    "week": 11,
+    "name": "8x3' (4:47, 4:40, 5:01, 4:39, 4:47, 4:29, 4:45, 4:29)",
+    "tags": [
+      "SubT"
+    ],
+    "avgHR": 146,
+    "intensity": null,
+    "distance": 8.78,
+    "movingTime": 2998,
+    "pace": 5.694,
+    "duration": 3,
+    "reps": 8,
+    "intervalPace": 4.702
+  },
+  {
+    "id": "i101344437",
+    "date": "2025-10-11",
+    "week": 11,
+    "name": "5 x 6'/1' (4:56, 4:54, 4:54, 4:54, 4:58)",
+    "tags": [
+      "SubT"
+    ],
+    "avgHR": 148,
+    "intensity": null,
+    "distance": 9.52,
+    "movingTime": 3296,
+    "pace": 5.769,
+    "duration": 6,
+    "reps": 5,
+    "intervalPace": 4.92
+  },
+  {
+    "id": "i101504937",
+    "date": "2025-10-12",
+    "week": 11,
+    "name": "Morning Run",
+    "tags": [
+      "easy runs"
+    ],
+    "avgHR": 130,
+    "intensity": null,
+    "distance": 12.0,
+    "movingTime": 5085,
+    "pace": 7.061,
+    "duration": null,
+    "reps": null,
+    "intervalPace": null
+  },
+  {
+    "id": "i101660457",
+    "date": "2025-10-13",
+    "week": 12,
+    "name": "Early morning Run",
+    "tags": [
+      "easy runs"
+    ],
+    "avgHR": 126,
+    "intensity": null,
+    "distance": 7.42,
+    "movingTime": 2995,
+    "pace": 6.729,
+    "duration": null,
+    "reps": null,
+    "intervalPace": null
+  },
+  {
+    "id": "i101825329",
+    "date": "2025-10-14",
+    "week": 12,
+    "name": "Supposed to be 10 x 3' but become 8 x 3' (5:03, 5:17, 4:54, 5:01, 5:19, 5:14, 5:09, 5:29)",
+    "tags": [
+      "SubT"
+    ],
+    "avgHR": 154,
+    "intensity": null,
+    "distance": 7.49,
+    "movingTime": 2861,
+    "pace": 6.367,
+    "duration": 3,
+    "reps": 10,
+    "intervalPace": 5.179
+  },
+  {
+    "id": "i101992953",
+    "date": "2025-10-15",
+    "week": 12,
+    "name": "Early morning Run",
+    "tags": [
+      "easy runs"
+    ],
+    "avgHR": 138,
+    "intensity": null,
+    "distance": 11.3,
+    "movingTime": 4290,
+    "pace": 6.327,
+    "duration": null,
+    "reps": null,
+    "intervalPace": null
+  },
+  {
+    "id": "i102166178",
+    "date": "2025-10-16",
+    "week": 12,
+    "name": "Early morning Run",
+    "tags": [
+      "easy runs"
+    ],
+    "avgHR": 121,
+    "intensity": null,
+    "distance": 7.31,
+    "movingTime": 3007,
+    "pace": 6.853,
+    "duration": null,
+    "reps": null,
+    "intervalPace": null
+  },
+  {
+    "id": "i102313427",
+    "date": "2025-10-17",
+    "week": 12,
+    "name": "5 x 6' (5:01, 5:04, 5:02, 4:57, 4:55)",
+    "tags": [
+      "SubT"
+    ],
+    "avgHR": 143,
+    "intensity": null,
+    "distance": 8.72,
+    "movingTime": 2994,
+    "pace": 5.721,
+    "duration": 6,
+    "reps": 5,
+    "intervalPace": 4.997
+  },
+  {
+    "id": "i102470057",
+    "date": "2025-10-18",
+    "week": 12,
+    "name": "Early morning Run",
+    "tags": [
+      "easy runs"
+    ],
+    "avgHR": 125,
+    "intensity": null,
+    "distance": 7.49,
+    "movingTime": 2997,
+    "pace": 6.67,
+    "duration": null,
+    "reps": null,
+    "intervalPace": null
+  },
+  {
+    "id": "i102621793",
+    "date": "2025-10-19",
+    "week": 12,
+    "name": "3 x 10'/90\" (5:10, 5:08, 5:05)",
+    "tags": [
+      "SubT"
+    ],
+    "avgHR": 144,
+    "intensity": null,
+    "distance": 8.67,
+    "movingTime": 2994,
+    "pace": 5.759,
+    "duration": 10,
+    "reps": 3,
+    "intervalPace": 5.128
+  },
+  {
+    "id": "i102780160",
+    "date": "2025-10-20",
+    "week": 13,
+    "name": "Morning Run",
+    "tags": [
+      "easy runs"
+    ],
+    "avgHR": 129,
+    "intensity": null,
+    "distance": 9.3,
+    "movingTime": 4037,
+    "pace": 7.231,
+    "duration": null,
+    "reps": null,
+    "intervalPace": null
+  },
+  {
+    "id": "i102924150",
+    "date": "2025-10-21",
+    "week": 13,
+    "name": "10 x 3'/1' (4:46, 4:53, 4:50, 4:48, 4:51, 4:51, 4:43, 4:47, 4:40, 4:43)",
+    "tags": [
+      "SubT"
+    ],
+    "avgHR": 147,
+    "intensity": null,
+    "distance": 10.28,
+    "movingTime": 3433,
+    "pace": 5.565,
+    "duration": 3,
+    "reps": 10,
+    "intervalPace": 4.787
+  },
+  {
+    "id": "i103099697",
+    "date": "2025-10-22",
+    "week": 13,
+    "name": "Early morning Run",
+    "tags": [
+      "easy runs"
+    ],
+    "avgHR": 125,
+    "intensity": null,
+    "distance": 9.78,
+    "movingTime": 4297,
+    "pace": 7.321,
+    "duration": null,
+    "reps": null,
+    "intervalPace": null
+  },
+  {
+    "id": "i103293010",
+    "date": "2025-10-23",
+    "week": 13,
+    "name": "5 x 6'/75\" (5:06, 4:57, 4:58, 4:54, 4:51)",
+    "tags": [
+      "SubT"
+    ],
+    "avgHR": 141,
+    "intensity": null,
+    "distance": 8.62,
+    "movingTime": 2968,
+    "pace": 5.735,
+    "duration": 6,
+    "reps": 5,
+    "intervalPace": 4.953
+  },
+  {
+    "id": "i103462386",
+    "date": "2025-10-24",
+    "week": 13,
+    "name": "Morning Run",
+    "tags": [
+      "easy runs"
+    ],
+    "avgHR": 123,
+    "intensity": null,
+    "distance": 6.67,
+    "movingTime": 2676,
+    "pace": 6.692,
+    "duration": null,
+    "reps": null,
+    "intervalPace": null
+  },
+  {
+    "id": "i103616061",
+    "date": "2025-10-25",
+    "week": 13,
+    "name": "10 x 3' (5:05, 5:08, 4:54)",
+    "tags": [
+      "SubT"
+    ],
+    "avgHR": 142,
+    "intensity": null,
+    "distance": 9.18,
+    "movingTime": 3176,
+    "pace": 5.769,
+    "duration": 3,
+    "reps": 10,
+    "intervalPace": 5.039
+  },
+  {
+    "id": "i103768999",
+    "date": "2025-10-26",
+    "week": 13,
+    "name": "Morning Run",
+    "tags": [
+      "easy runs"
+    ],
+    "avgHR": 124,
+    "intensity": null,
+    "distance": 11.58,
+    "movingTime": 4934,
+    "pace": 7.101,
+    "duration": null,
+    "reps": null,
+    "intervalPace": null
+  },
+  {
+    "id": "i103914188",
+    "date": "2025-10-27",
+    "week": 14,
+    "name": "Morning Run",
+    "tags": [
+      "easy runs"
+    ],
+    "avgHR": 128,
+    "intensity": null,
+    "distance": 7.2,
+    "movingTime": 2997,
+    "pace": 6.933,
+    "duration": null,
+    "reps": null,
+    "intervalPace": null
+  },
+  {
+    "id": "i104060512",
+    "date": "2025-10-28",
+    "week": 14,
+    "name": "10 x 3'/1' (4:36, 4:41, 4:31, 4:38, 4:30, 4:33, 4:34, 4:33, 4:34, 4:45)",
+    "tags": [
+      "SubT"
+    ],
+    "avgHR": 156,
+    "intensity": null,
+    "distance": 9.81,
+    "movingTime": 3204,
+    "pace": 5.442,
+    "duration": 3,
+    "reps": 10,
+    "intervalPace": 4.592
+  },
+  {
+    "id": "i104224574",
+    "date": "2025-10-29",
+    "week": 14,
+    "name": "Early morning Run",
+    "tags": [
+      "easy runs"
+    ],
+    "avgHR": 111,
+    "intensity": null,
+    "distance": 4.88,
+    "movingTime": 2646,
+    "pace": 9.037,
+    "duration": null,
+    "reps": null,
+    "intervalPace": null
+  },
+  {
+    "id": "i104371648",
+    "date": "2025-10-30",
+    "week": 14,
+    "name": "5 x 6 (5:01, 4:56, 4:53, 4:55, 5:00)",
+    "tags": [
+      "SubT"
+    ],
+    "avgHR": 149,
+    "intensity": null,
+    "distance": 8.74,
+    "movingTime": 3046,
+    "pace": 5.811,
+    "duration": 6,
+    "reps": 5,
+    "intervalPace": 4.95
+  },
+  {
+    "id": "i104535504",
+    "date": "2025-10-31",
+    "week": 14,
+    "name": "Early morning Run",
+    "tags": [
+      "easy runs"
+    ],
+    "avgHR": 128,
+    "intensity": null,
+    "distance": 8.94,
+    "movingTime": 3595,
+    "pace": 6.703,
+    "duration": null,
+    "reps": null,
+    "intervalPace": null
+  },
+  {
+    "id": "i104695967",
+    "date": "2025-11-01",
+    "week": 14,
+    "name": "3 x 10' (5:18, 5:17, 5:12)",
+    "tags": [
+      "SubT"
+    ],
+    "avgHR": 149,
+    "intensity": null,
+    "distance": 8.28,
+    "movingTime": 2916,
+    "pace": 5.871,
+    "duration": 10,
+    "reps": 3,
+    "intervalPace": 5.261
+  },
+  {
+    "id": "i104859472",
+    "date": "2025-11-02",
+    "week": 14,
+    "name": "Long Run 2hrs",
+    "tags": [
+      "easy runs"
+    ],
+    "avgHR": 130,
+    "intensity": null,
+    "distance": 16.89,
+    "movingTime": 7689,
+    "pace": 7.586,
+    "duration": null,
+    "reps": null,
+    "intervalPace": null
+  },
+  {
+    "id": "i105046252",
+    "date": "2025-11-03",
+    "week": 15,
+    "name": "Morning Run",
+    "tags": [
+      "easy runs"
+    ],
+    "avgHR": 130,
+    "intensity": null,
+    "distance": 5.27,
+    "movingTime": 2010,
+    "pace": 6.357,
+    "duration": null,
+    "reps": null,
+    "intervalPace": null
+  },
+  {
+    "id": "i105178900",
+    "date": "2025-11-04",
+    "week": 15,
+    "name": "10 x 3' (4:47, 4:43, 4:45, 4:32, 4:43, 4:38, 4:39, 4:29, 4:52)",
+    "tags": [
+      "SubT"
+    ],
+    "avgHR": 143,
+    "intensity": null,
+    "distance": 9.36,
+    "movingTime": 3130,
+    "pace": 5.576,
+    "duration": 3,
+    "reps": 10,
+    "intervalPace": 4.681
+  },
+  {
+    "id": "i105341087",
+    "date": "2025-11-05",
+    "week": 15,
+    "name": "Morning Run",
+    "tags": [
+      "easy runs"
+    ],
+    "avgHR": 123,
+    "intensity": null,
+    "distance": 6.0,
+    "movingTime": 2581,
+    "pace": 7.164,
+    "duration": null,
+    "reps": null,
+    "intervalPace": null
+  },
+  {
+    "id": "i105500124",
+    "date": "2025-11-06",
+    "week": 15,
+    "name": "5 x 6' (4:47, 4:43, 4:46, 4:47, 4:48)",
+    "tags": [
+      "SubT"
+    ],
+    "avgHR": 149,
+    "intensity": null,
+    "distance": 9.29,
+    "movingTime": 3124,
+    "pace": 5.603,
+    "duration": 6,
+    "reps": 5,
+    "intervalPace": 4.77
+  },
+  {
+    "id": "i105649033",
+    "date": "2025-11-07",
+    "week": 15,
+    "name": "Early morning Run",
+    "tags": [
+      "easy runs"
+    ],
+    "avgHR": 123,
+    "intensity": null,
+    "distance": 7.0,
+    "movingTime": 2881,
+    "pace": 6.855,
+    "duration": null,
+    "reps": null,
+    "intervalPace": null
+  },
+  {
+    "id": "i105783645",
+    "date": "2025-11-08",
+    "week": 15,
+    "name": "3 x 10'/90\" (5:20, 5:07, 5:06)",
+    "tags": [
+      "SubT"
+    ],
+    "avgHR": 141,
+    "intensity": null,
+    "distance": 9.99,
+    "movingTime": 3576,
+    "pace": 5.967,
+    "duration": 10,
+    "reps": 3,
+    "intervalPace": 5.183
+  },
+  {
+    "id": "i105929360",
+    "date": "2025-11-09",
+    "week": 15,
+    "name": "Long Run 2hrs Bukit TAR",
+    "tags": [
+      "easy runs"
+    ],
+    "avgHR": 129,
+    "intensity": null,
+    "distance": 15.76,
+    "movingTime": 7032,
+    "pace": 7.437,
+    "duration": null,
+    "reps": null,
+    "intervalPace": null
+  },
+  {
+    "id": "i106105399",
+    "date": "2025-11-10",
+    "week": 16,
+    "name": "Early morning Run",
+    "tags": [
+      "easy runs"
+    ],
+    "avgHR": 127,
+    "intensity": null,
+    "distance": 7.58,
+    "movingTime": 3109,
+    "pace": 6.833,
+    "duration": null,
+    "reps": null,
+    "intervalPace": null
+  },
+  {
+    "id": "i106277472",
+    "date": "2025-11-11",
+    "week": 16,
+    "name": "10 x 3' (4:54, 4:51, 4:35, 4:34, 4:22, 4:29, 4:24, 4:35, 4:23, 4:29) ",
+    "tags": [
+      "SubT"
+    ],
+    "avgHR": 149,
+    "intensity": null,
+    "distance": 10.02,
+    "movingTime": 3340,
+    "pace": 5.555,
+    "duration": 3,
+    "reps": 10,
+    "intervalPace": 4.56
+  },
+  {
+    "id": "i106450183",
+    "date": "2025-11-12",
+    "week": 16,
+    "name": "Early morning Run",
+    "tags": [
+      "easy runs"
+    ],
+    "avgHR": 124,
+    "intensity": null,
+    "distance": 9.54,
+    "movingTime": 4135,
+    "pace": 7.222,
+    "duration": null,
+    "reps": null,
+    "intervalPace": null
+  },
+  {
+    "id": "i106627783",
+    "date": "2025-11-13",
+    "week": 16,
+    "name": "5 x 6'/1' (5:04, 4:58, 5:04, 4:53, 4:52)",
+    "tags": [
+      "SubT"
+    ],
+    "avgHR": 147,
+    "intensity": null,
+    "distance": 8.87,
+    "movingTime": 3028,
+    "pace": 5.689,
+    "duration": 6,
+    "reps": 5,
+    "intervalPace": 4.97
+  },
+  {
+    "id": "i106811765",
+    "date": "2025-11-14",
+    "week": 16,
+    "name": "Morning Run",
+    "tags": [
+      "easy runs"
+    ],
+    "avgHR": 128,
+    "intensity": null,
+    "distance": 7.59,
+    "movingTime": 2998,
+    "pace": 6.584,
+    "duration": null,
+    "reps": null,
+    "intervalPace": null
+  },
+  {
+    "id": "i106960248",
+    "date": "2025-11-15",
+    "week": 16,
+    "name": "25 x 1'/30\" (4:11, 4:20, 4:14, 4:15, 4:19, 4:30, 4:21, 4:24, 4:13, 4:25, 4:15, 4:15, 4:28, 4:05, 4:09, 4:16, 4:19, 4:32, 4:22, 4:21, 4:20, 4:16, 4:22, 4:24, 4:20)",
+    "tags": [
+      "SubT"
+    ],
+    "avgHR": 158,
+    "intensity": null,
+    "distance": 9.44,
+    "movingTime": 3137,
+    "pace": 5.541,
+    "duration": 1,
+    "reps": 25,
+    "intervalPace": 4.317
+  },
+  {
+    "id": "i107118784",
+    "date": "2025-11-16",
+    "week": 16,
+    "name": "A 🌧️ long run",
+    "tags": [
+      "easy runs"
+    ],
+    "avgHR": 130,
+    "intensity": null,
+    "distance": 15.54,
+    "movingTime": 7318,
+    "pace": 7.847,
+    "duration": null,
+    "reps": null,
+    "intervalPace": null
+  },
+  {
+    "id": "i107291036",
+    "date": "2025-11-17",
+    "week": 17,
+    "name": "Morning Run",
+    "tags": [
+      "easy runs"
+    ],
+    "avgHR": 127,
+    "intensity": null,
+    "distance": 7.0,
+    "movingTime": 2905,
+    "pace": 6.914,
+    "duration": null,
+    "reps": null,
+    "intervalPace": null
+  },
+  {
+    "id": "i107456582",
+    "date": "2025-11-18",
+    "week": 17,
+    "name": "Tapering down 5 x 3' (4:47, 4:51, 4:28, 4:44, 4:34)",
+    "tags": [
+      "SubT"
+    ],
+    "avgHR": 136,
+    "intensity": null,
+    "distance": 6.56,
+    "movingTime": 2268,
+    "pace": 5.76,
+    "duration": 3,
+    "reps": 5,
+    "intervalPace": 4.68
+  },
+  {
+    "id": "i107631111",
+    "date": "2025-11-19",
+    "week": 17,
+    "name": "Early morning Run",
+    "tags": [
+      "easy runs"
+    ],
+    "avgHR": 129,
+    "intensity": null,
+    "distance": 6.49,
+    "movingTime": 2709,
+    "pace": 6.962,
+    "duration": null,
+    "reps": null,
+    "intervalPace": null
+  },
+  {
+    "id": "i107797431",
+    "date": "2025-11-20",
+    "week": 17,
+    "name": "3 x 4'/90\" (4:53, 4:55, 4:44)",
+    "tags": [
+      "SubT"
+    ],
+    "avgHR": 134,
+    "intensity": null,
+    "distance": 6.0,
+    "movingTime": 2188,
+    "pace": 6.076,
+    "duration": 4,
+    "reps": 3,
+    "intervalPace": 4.844
+  },
+  {
+    "id": "i107957069",
+    "date": "2025-11-21",
+    "week": 17,
+    "name": "Morning Run",
+    "tags": [
+      "easy runs"
+    ],
+    "avgHR": 126,
+    "intensity": null,
+    "distance": 6.0,
+    "movingTime": 2384,
+    "pace": 6.618,
+    "duration": null,
+    "reps": null,
+    "intervalPace": null
+  },
+  {
+    "id": "i108097952",
+    "date": "2025-11-22",
+    "week": 17,
+    "name": "Neuromuscular sharpening 5 x 1' (4:07, 4:16, 4:07, 3:56, 3:59)",
+    "tags": [
+      "SubT"
+    ],
+    "avgHR": 135,
+    "intensity": null,
+    "distance": 6.01,
+    "movingTime": 2217,
+    "pace": 6.152,
+    "duration": 1,
+    "reps": 5,
+    "intervalPace": 4.083
+  },
+  {
+    "id": "i108238789",
+    "date": "2025-11-23",
+    "week": 17,
+    "name": "Early morning Run",
+    "tags": [
+      "easy runs"
+    ],
+    "avgHR": 124,
+    "intensity": null,
+    "distance": 7.1,
+    "movingTime": 3015,
+    "pace": 7.078,
+    "duration": null,
+    "reps": null,
+    "intervalPace": null
+  },
+  {
+    "id": "i108541316",
+    "date": "2025-11-25",
+    "week": 18,
+    "name": "Morning Run",
+    "tags": [
+      "easy runs"
+    ],
+    "avgHR": 132,
+    "intensity": null,
+    "distance": 3.46,
+    "movingTime": 1351,
+    "pace": 6.498,
+    "duration": null,
+    "reps": null,
+    "intervalPace": null
+  },
+  {
+    "id": "i110558688",
+    "date": "2025-11-26",
+    "week": 18,
+    "name": "CD",
+    "tags": [],
+    "avgHR": 82,
+    "intensity": null,
+    "distance": 2.87,
+    "movingTime": 190,
+    "pace": 1.103,
+    "duration": null,
+    "reps": null,
+    "intervalPace": null
+  },
+  {
+    "id": "i108711872",
+    "date": "2025-11-26",
+    "week": 18,
+    "name": "5k TT",
+    "tags": [
+      "RACE"
+    ],
+    "avgHR": 181,
+    "intensity": null,
+    "distance": 5.01,
+    "movingTime": 1315,
+    "pace": 4.378,
+    "duration": null,
+    "reps": null,
+    "intervalPace": null
+  },
+  {
+    "id": "i108711871",
+    "date": "2025-11-26",
+    "week": 18,
+    "name": "Early morning Run",
+    "tags": [
+      "easy runs"
+    ],
+    "avgHR": 133,
+    "intensity": null,
+    "distance": 2.53,
+    "movingTime": 988,
+    "pace": 6.509,
+    "duration": null,
+    "reps": null,
+    "intervalPace": null
+  },
+  {
+    "id": "i108859742",
+    "date": "2025-11-27",
+    "week": 18,
+    "name": "Early morning Run",
+    "tags": [
+      "easy runs"
+    ],
+    "avgHR": 123,
+    "intensity": null,
+    "distance": 5.98,
+    "movingTime": 2463,
+    "pace": 6.865,
+    "duration": null,
+    "reps": null,
+    "intervalPace": null
+  },
+  {
+    "id": "i109079484",
+    "date": "2025-11-28",
+    "week": 18,
+    "name": "Afternoon Run",
+    "tags": [
+      "easy runs"
+    ],
+    "avgHR": 129,
+    "intensity": null,
+    "distance": 6.0,
+    "movingTime": 2429,
+    "pace": 6.742,
+    "duration": null,
+    "reps": null,
+    "intervalPace": null
+  },
+  {
+    "id": "i109048727",
+    "date": "2025-11-28",
+    "week": 18,
+    "name": "Morning Run",
+    "tags": [
+      "easy runs"
+    ],
+    "avgHR": 128,
+    "intensity": null,
+    "distance": 7.88,
+    "movingTime": 3287,
+    "pace": 6.949,
+    "duration": null,
+    "reps": null,
+    "intervalPace": null
+  },
+  {
+    "id": "i109179589",
+    "date": "2025-11-29",
+    "week": 18,
+    "name": "Morning Run",
+    "tags": [
+      "easy runs"
+    ],
+    "avgHR": 128,
+    "intensity": null,
+    "distance": 9.39,
+    "movingTime": 3599,
+    "pace": 6.387,
+    "duration": null,
+    "reps": null,
+    "intervalPace": null
+  },
+  {
+    "id": "i109342521",
+    "date": "2025-11-30",
+    "week": 18,
+    "name": "Morning Run",
+    "tags": [
+      "easy runs"
+    ],
+    "avgHR": 136,
+    "intensity": null,
+    "distance": 15.61,
+    "movingTime": 6216,
+    "pace": 6.635,
+    "duration": null,
+    "reps": null,
+    "intervalPace": null
+  },
+  {
+    "id": "i109484025",
+    "date": "2025-12-01",
+    "week": 19,
+    "name": "1h Easy @ G-Ez Pace",
+    "tags": [
+      "easy runs"
+    ],
+    "avgHR": 131,
+    "intensity": null,
+    "distance": 9.07,
+    "movingTime": 3599,
+    "pace": 6.616,
+    "duration": null,
+    "reps": null,
+    "intervalPace": null
+  },
+  {
+    "id": "i109633676",
+    "date": "2025-12-02",
+    "week": 19,
+    "name": "3x10mins SubT @ MP 4:58, 5:00, 4:55",
+    "tags": [
+      "SubT"
+    ],
+    "avgHR": 152,
+    "intensity": null,
+    "distance": 8.83,
+    "movingTime": 3000,
+    "pace": 5.662,
+    "duration": 10,
+    "reps": 3,
+    "intervalPace": 4.961
+  },
+  {
+    "id": "i109842874",
+    "date": "2025-12-03",
+    "week": 19,
+    "name": "1h Easy @ G-Ez Pace",
+    "tags": [
+      "easy runs"
+    ],
+    "avgHR": 126,
+    "intensity": null,
+    "distance": 7.01,
+    "movingTime": 2826,
+    "pace": 6.721,
+    "duration": null,
+    "reps": null,
+    "intervalPace": null
+  },
+  {
+    "id": "i110015715",
+    "date": "2025-12-04",
+    "week": 19,
+    "name": "8x3mins SubT @ 15KP (4:32, 4:38, 4:27, 4:35, 4:26, 4:35, 4:28, 4:35)",
+    "tags": [
+      "SubT"
+    ],
+    "avgHR": 148,
+    "intensity": null,
+    "distance": 8.91,
+    "movingTime": 2999,
+    "pace": 5.61,
+    "duration": 3,
+    "reps": 8,
+    "intervalPace": 4.533
+  },
+  {
+    "id": "i110203900",
+    "date": "2025-12-05",
+    "week": 19,
+    "name": "40mins Easy @ Tinman Recovery",
+    "tags": [
+      "easy runs"
+    ],
+    "avgHR": 128,
+    "intensity": null,
+    "distance": 7.0,
+    "movingTime": 2764,
+    "pace": 6.576,
+    "duration": null,
+    "reps": null,
+    "intervalPace": null
+  },
+  {
+    "id": "i110395138",
+    "date": "2025-12-06",
+    "week": 19,
+    "name": "Morning Run",
+    "tags": [
+      "easy runs"
+    ],
+    "avgHR": 140,
+    "intensity": null,
+    "distance": 10.33,
+    "movingTime": 3785,
+    "pace": 6.107,
+    "duration": null,
+    "reps": null,
+    "intervalPace": null
+  },
+  {
+    "id": "i110735144",
+    "date": "2025-12-07",
+    "week": 19,
+    "name": "Evening Run",
+    "tags": [],
+    "avgHR": null,
+    "intensity": null,
+    "distance": null,
+    "movingTime": 218,
+    "pace": null,
+    "duration": null,
+    "reps": null,
+    "intervalPace": null
+  },
+  {
+    "id": "i110561167",
+    "date": "2025-12-07",
+    "week": 19,
+    "name": "Morning Run",
+    "tags": [
+      "easy runs"
+    ],
+    "avgHR": 121,
+    "intensity": null,
+    "distance": 5.01,
+    "movingTime": 2147,
+    "pace": 7.147,
+    "duration": null,
+    "reps": null,
+    "intervalPace": null
+  },
+  {
+    "id": "i110735148",
+    "date": "2025-12-08",
+    "week": 20,
+    "name": "Morning Run",
+    "tags": [
+      "easy runs"
+    ],
+    "avgHR": 138,
+    "intensity": null,
+    "distance": 8.31,
+    "movingTime": 3232,
+    "pace": 6.481,
+    "duration": null,
+    "reps": null,
+    "intervalPace": null
+  },
+  {
+    "id": "i110898316",
+    "date": "2025-12-09",
+    "week": 20,
+    "name": "3x6mins SubT @ HMP",
+    "tags": [
+      "SubT"
+    ],
+    "avgHR": 144,
+    "intensity": null,
+    "distance": 5.65,
+    "movingTime": 1803,
+    "pace": 5.321,
+    "duration": 6,
+    "reps": 3,
+    "intervalPace": null
+  },
+  {
+    "id": "i111088911",
+    "date": "2025-12-10",
+    "week": 20,
+    "name": "30m Easy @ G-Ez Pace",
+    "tags": [
+      "easy runs"
+    ],
+    "avgHR": 121,
+    "intensity": null,
+    "distance": 5.42,
+    "movingTime": 2184,
+    "pace": 6.713,
+    "duration": null,
+    "reps": null,
+    "intervalPace": null
+  },
+  {
+    "id": "i111312236",
+    "date": "2025-12-11",
+    "week": 20,
+    "name": "2 x 4mins @ race pace (4:32, 4:32)",
+    "tags": [
+      "SubT"
+    ],
+    "avgHR": 138,
+    "intensity": null,
+    "distance": 5.65,
+    "movingTime": 2039,
+    "pace": 6.016,
+    "duration": 4,
+    "reps": 2,
+    "intervalPace": 4.533
+  },
+  {
+    "id": "i111639201",
+    "date": "2025-12-13",
+    "week": 20,
+    "name": "Morning Run",
+    "tags": [
+      "easy runs"
+    ],
+    "avgHR": 137,
+    "intensity": null,
+    "distance": 1.79,
+    "movingTime": 901,
+    "pace": 8.394,
+    "duration": null,
+    "reps": null,
+    "intervalPace": null
+  },
+  {
+    "id": "i111638400",
+    "date": "2025-12-13",
+    "week": 20,
+    "name": "10k yamaha genblu",
+    "tags": [
+      "RACE"
+    ],
+    "avgHR": 178,
+    "intensity": null,
+    "distance": 10.02,
+    "movingTime": 2797,
+    "pace": 4.652,
+    "duration": null,
+    "reps": null,
+    "intervalPace": null
+  },
+  {
+    "id": "i111638396",
+    "date": "2025-12-13",
+    "week": 20,
+    "name": "Morning Run",
+    "tags": [
+      "easy runs"
+    ],
+    "avgHR": 145,
+    "intensity": null,
+    "distance": 0.97,
+    "movingTime": 352,
+    "pace": 6.023,
+    "duration": null,
+    "reps": null,
+    "intervalPace": null
+  },
+  {
+    "id": "i111638394",
+    "date": "2025-12-13",
+    "week": 20,
+    "name": "Early morning Run",
+    "tags": [
+      "easy runs"
+    ],
+    "avgHR": 140,
+    "intensity": null,
+    "distance": 2.2,
+    "movingTime": 830,
+    "pace": 6.299,
+    "duration": null,
+    "reps": null,
+    "intervalPace": null
+  },
+  {
+    "id": "i111816001",
+    "date": "2025-12-14",
+    "week": 20,
+    "name": "Morning Run",
+    "tags": [
+      "easy runs"
+    ],
+    "avgHR": 116,
+    "intensity": null,
+    "distance": 5.01,
+    "movingTime": 2313,
+    "pace": 7.699,
+    "duration": null,
+    "reps": null,
+    "intervalPace": null
+  },
+  {
+    "id": "i111976746",
+    "date": "2025-12-15",
+    "week": 21,
+    "name": "1h Easy @ G-Ez Pace",
+    "tags": [
+      "easy runs"
+    ],
+    "avgHR": 125,
+    "intensity": null,
+    "distance": 8.58,
+    "movingTime": 3599,
+    "pace": 6.993,
+    "duration": null,
+    "reps": null,
+    "intervalPace": null
+  },
+  {
+    "id": "i112156138",
+    "date": "2025-12-16",
+    "week": 21,
+    "name": "10x3mins SubT @ 15KP ( 5:13, 4:57, 4:51, 4:52, 4:51, 4:51, 4:44, 4:50, 4:46, 4:51)",
+    "tags": [
+      "SubT"
+    ],
+    "avgHR": 140,
+    "intensity": null,
+    "distance": 9.34,
+    "movingTime": 3269,
+    "pace": 5.835,
+    "duration": 3,
+    "reps": 10,
+    "intervalPace": 4.877
+  },
+  {
+    "id": "i112338039",
+    "date": "2025-12-17",
+    "week": 21,
+    "name": "1h Easy @ G-Ez Pace",
+    "tags": [
+      "easy runs"
+    ],
+    "avgHR": 125,
+    "intensity": null,
+    "distance": 8.75,
+    "movingTime": 3623,
+    "pace": 6.899,
+    "duration": null,
+    "reps": null,
+    "intervalPace": null
+  },
+  {
+    "id": "i112513828",
+    "date": "2025-12-18",
+    "week": 21,
+    "name": "5x6mins SubT @ HMP (5:13, 5:02, 5:05, 5:03, 4:57)",
+    "tags": [
+      "SubT"
+    ],
+    "avgHR": 143,
+    "intensity": null,
+    "distance": 8.47,
+    "movingTime": 2946,
+    "pace": 5.795,
+    "duration": 6,
+    "reps": 5,
+    "intervalPace": 5.067
+  },
+  {
+    "id": "i113522239",
+    "date": "2025-12-24",
+    "week": 22,
+    "name": "Morning Run",
+    "tags": [
+      "easy runs"
+    ],
+    "avgHR": 115,
+    "intensity": null,
+    "distance": 2.96,
+    "movingTime": 1409,
+    "pace": 7.936,
+    "duration": null,
+    "reps": null,
+    "intervalPace": null
+  },
+  {
+    "id": "i113807800",
+    "date": "2025-12-25",
+    "week": 22,
+    "name": "Morning Run",
+    "tags": [
+      "easy runs"
+    ],
+    "avgHR": 99,
+    "intensity": null,
+    "distance": 1.58,
+    "movingTime": 1617,
+    "pace": 17.068,
+    "duration": null,
+    "reps": null,
+    "intervalPace": null
+  },
+  {
+    "id": "i113807801",
+    "date": "2025-12-26",
+    "week": 22,
+    "name": "First test run after a week in hiatus",
+    "tags": [
+      "easy runs"
+    ],
+    "avgHR": 131,
+    "intensity": null,
+    "distance": 7.25,
+    "movingTime": 2999,
+    "pace": 6.897,
+    "duration": null,
+    "reps": null,
+    "intervalPace": null
+  },
+  {
+    "id": "i113985789",
+    "date": "2025-12-27",
+    "week": 22,
+    "name": "50m Easy @ G-Ez Pace",
+    "tags": [
+      "easy runs"
+    ],
+    "avgHR": 133,
+    "intensity": null,
+    "distance": 7.0,
+    "movingTime": 2800,
+    "pace": 6.662,
+    "duration": null,
+    "reps": null,
+    "intervalPace": null
+  },
+  {
+    "id": "i114190639",
+    "date": "2025-12-28",
+    "week": 22,
+    "name": "10 x 1'/1' (4:31, 4:15, 4:06, 4:02, 4:00, 4:05, 3:59, 4:03, 4:08, 4:00)",
+    "tags": [
+      "SubT"
+    ],
+    "avgHR": 144,
+    "intensity": null,
+    "distance": 6.12,
+    "movingTime": 2413,
+    "pace": 6.566,
+    "duration": 1,
+    "reps": 10,
+    "intervalPace": 4.115
+  },
+  {
+    "id": "i114379116",
+    "date": "2025-12-29",
+    "week": 23,
+    "name": "Felt lethargic",
+    "tags": [
+      "easy runs"
+    ],
+    "avgHR": 124,
+    "intensity": null,
+    "distance": 5.2,
+    "movingTime": 2285,
+    "pace": 7.325,
+    "duration": null,
+    "reps": null,
+    "intervalPace": null
+  },
+  {
+    "id": "i114741451",
+    "date": "2025-12-31",
+    "week": 23,
+    "name": "50m Easy @ G-Ez Pace",
+    "tags": [
+      "easy runs"
+    ],
+    "avgHR": 127,
+    "intensity": null,
+    "distance": 7.0,
+    "movingTime": 3007,
+    "pace": 7.156,
+    "duration": null,
+    "reps": null,
+    "intervalPace": null
+  },
+  {
+    "id": "i114968833",
+    "date": "2026-01-01",
+    "week": 23,
+    "name": "WD",
+    "tags": [
+      "easy runs"
+    ],
+    "avgHR": 150,
+    "intensity": null,
+    "distance": 0.53,
+    "movingTime": 203,
+    "pace": 6.42,
+    "duration": null,
+    "reps": null,
+    "intervalPace": null
+  },
+  {
+    "id": "i114968831",
+    "date": "2026-01-01",
+    "week": 23,
+    "name": "Failed 5k TT",
+    "tags": [
+      "RACE"
+    ],
+    "avgHR": 172,
+    "intensity": null,
+    "distance": 2.41,
+    "movingTime": 629,
+    "pace": 4.355,
+    "duration": null,
+    "reps": null,
+    "intervalPace": null
+  },
+  {
+    "id": "i114968832",
+    "date": "2026-01-01",
+    "week": 23,
+    "name": "Morning Run",
+    "tags": [
+      "easy runs"
+    ],
+    "avgHR": 147,
+    "intensity": null,
+    "distance": 3.07,
+    "movingTime": 1066,
+    "pace": 5.789,
+    "duration": null,
+    "reps": null,
+    "intervalPace": null
+  },
+  {
+    "id": "i115585194",
+    "date": "2026-01-04",
+    "week": 23,
+    "name": "2h Easy Long @ G-Ez Pace",
+    "tags": [
+      "easy runs"
+    ],
+    "avgHR": 128,
+    "intensity": null,
+    "distance": 15.0,
+    "movingTime": 6047,
+    "pace": 6.718,
+    "duration": null,
+    "reps": null,
+    "intervalPace": null
+  },
+  {
+    "id": "i115822635",
+    "date": "2026-01-05",
+    "week": 24,
+    "name": "Morning Easy Run",
+    "tags": [
+      "easy runs"
+    ],
+    "avgHR": 134,
+    "intensity": null,
+    "distance": 7.33,
+    "movingTime": 3023,
+    "pace": 6.873,
+    "duration": null,
+    "reps": null,
+    "intervalPace": null
+  },
+  {
+    "id": "i116059076",
+    "date": "2026-01-06",
+    "week": 24,
+    "name": "3x10mins/2mins SubT @ MP (5:11, 5:27, 5:14)",
+    "tags": [
+      "SubT"
+    ],
+    "avgHR": 151,
+    "intensity": null,
+    "distance": 8.58,
+    "movingTime": 3156,
+    "pace": 6.128,
+    "duration": 10,
+    "reps": 3,
+    "intervalPace": 5.289
+  },
+  {
+    "id": "i116286010",
+    "date": "2026-01-07",
+    "week": 24,
+    "name": "1h20min easy recovery ",
+    "tags": [
+      "easy runs"
+    ],
+    "avgHR": 129,
+    "intensity": null,
+    "distance": 9.41,
+    "movingTime": 4112,
+    "pace": 7.285,
+    "duration": null,
+    "reps": null,
+    "intervalPace": null
+  },
+  {
+    "id": "i116490878",
+    "date": "2026-01-08",
+    "week": 24,
+    "name": "4x6mins SubT @ HMP (5:06, 5;03, 4:58, 5:04)",
+    "tags": [
+      "SubT"
+    ],
+    "avgHR": 142,
+    "intensity": null,
+    "distance": 8.44,
+    "movingTime": 3111,
+    "pace": 6.145,
+    "duration": 6,
+    "reps": 4,
+    "intervalPace": 5.044
+  },
+  {
+    "id": "i116886771",
+    "date": "2026-01-10",
+    "week": 24,
+    "name": "8x3mins SubT @ 15KP (4:45, 4:48, 4:46, 4:41, 4:41, 4:42, 4:43, 4:40)",
+    "tags": [
+      "SubT"
+    ],
+    "avgHR": 144,
+    "intensity": null,
+    "distance": 8.71,
+    "movingTime": 3090,
+    "pace": 5.91,
+    "duration": 3,
+    "reps": 8,
+    "intervalPace": 4.721
+  },
+  {
+    "id": "i117107166",
+    "date": "2026-01-11",
+    "week": 24,
+    "name": "1h30mins Easy Long @ G-Ez Pace",
+    "tags": [
+      "easy runs"
+    ],
+    "avgHR": 133,
+    "intensity": null,
+    "distance": 13.65,
+    "movingTime": 5447,
+    "pace": 6.652,
+    "duration": null,
+    "reps": null,
+    "intervalPace": null
+  },
+  {
+    "id": "i117305659",
+    "date": "2026-01-12",
+    "week": 25,
+    "name": "50m Easy @ G-Ez Pace",
+    "tags": [
+      "easy runs"
+    ],
+    "avgHR": 129,
+    "intensity": null,
+    "distance": 6.78,
+    "movingTime": 2706,
+    "pace": 6.653,
+    "duration": null,
+    "reps": null,
+    "intervalPace": null
+  },
+  {
+    "id": "i117533445",
+    "date": "2026-01-13",
+    "week": 25,
+    "name": "8x3mins SubT @ 15KP(4:44, 4:49, 4:48, 4:47, 4:47, 4:51, 4:46, 4:48)",
+    "tags": [
+      "SubT"
+    ],
+    "avgHR": 145,
+    "intensity": null,
+    "distance": 9.52,
+    "movingTime": 3414,
+    "pace": 5.976,
+    "duration": 3,
+    "reps": 8,
+    "intervalPace": 4.792
+  },
+  {
+    "id": "i117740254",
+    "date": "2026-01-14",
+    "week": 25,
+    "name": "1h Easy @ G-Ez Pace",
+    "tags": [
+      "easy runs"
+    ],
+    "avgHR": 126,
+    "intensity": null,
+    "distance": 6.26,
+    "movingTime": 2702,
+    "pace": 7.189,
+    "duration": null,
+    "reps": null,
+    "intervalPace": null
+  },
+  {
+    "id": "i118075915",
+    "date": "2026-01-15",
+    "week": 25,
+    "name": "Evening Run",
+    "tags": [
+      "easy runs"
+    ],
+    "avgHR": 124,
+    "intensity": null,
+    "distance": 4.0,
+    "movingTime": 1850,
+    "pace": 7.703,
+    "duration": null,
+    "reps": null,
+    "intervalPace": null
+  },
+  {
+    "id": "i118211782",
+    "date": "2026-01-16",
+    "week": 25,
+    "name": "4x6mins SubT @ HMP (5:06, 4:55, 4:53, 4:51)",
+    "tags": [
+      "SubT"
+    ],
+    "avgHR": 139,
+    "intensity": null,
+    "distance": 8.62,
+    "movingTime": 3197,
+    "pace": 6.182,
+    "duration": 6,
+    "reps": 4,
+    "intervalPace": 4.938
+  },
+  {
+    "id": "i118442059",
+    "date": "2026-01-17",
+    "week": 25,
+    "name": "45m Easy @ G-Ez Pace",
+    "tags": [
+      "easy runs"
+    ],
+    "avgHR": 131,
+    "intensity": null,
+    "distance": 7.63,
+    "movingTime": 3045,
+    "pace": 6.648,
+    "duration": null,
+    "reps": null,
+    "intervalPace": null
+  },
+  {
+    "id": "i118674754",
+    "date": "2026-01-18",
+    "week": 25,
+    "name": "2x15mins SubT @ MP (5:20, 5:16)",
+    "tags": [
+      "SubT"
+    ],
+    "avgHR": 145,
+    "intensity": null,
+    "distance": 12.03,
+    "movingTime": 4536,
+    "pace": 6.286,
+    "duration": 15,
+    "reps": 2,
+    "intervalPace": 5.3
+  },
+  {
+    "id": "i119155191",
+    "date": "2026-01-20",
+    "week": 26,
+    "name": "3x10mins SubT @ MP (5:05, 5:00, 5:02)",
+    "tags": [
+      "SubT"
+    ],
+    "avgHR": 146,
+    "intensity": null,
+    "distance": 8.35,
+    "movingTime": 2915,
+    "pace": 5.817,
+    "duration": 10,
+    "reps": 3,
+    "intervalPace": 5.039
+  },
+  {
+    "id": "i119376716",
+    "date": "2026-01-21",
+    "week": 26,
+    "name": "Early morning Run",
+    "tags": [
+      "easy runs"
+    ],
+    "avgHR": 123,
+    "intensity": null,
+    "distance": 9.2,
+    "movingTime": 4047,
+    "pace": 7.333,
+    "duration": null,
+    "reps": null,
+    "intervalPace": null
+  },
+  {
+    "id": "i119612641",
+    "date": "2026-01-22",
+    "week": 26,
+    "name": "2x10mins SubT @ MP (5:13, 5:01)",
+    "tags": [
+      "SubT"
+    ],
+    "avgHR": 140,
+    "intensity": null,
+    "distance": 6.4,
+    "movingTime": 2345,
+    "pace": 6.108,
+    "duration": 10,
+    "reps": 2,
+    "intervalPace": 5.117
+  },
+  {
+    "id": "i120098591",
+    "date": "2026-01-24",
+    "week": 26,
+    "name": "3x15mins SubT @ MP (5:13, 5:19, 5:09)",
+    "tags": [
+      "SubT"
+    ],
+    "avgHR": 147,
+    "intensity": null,
+    "distance": 14.01,
+    "movingTime": 5135,
+    "pace": 6.11,
+    "duration": 15,
+    "reps": 3,
+    "intervalPace": 5.228
+  },
+  {
+    "id": "i120292204",
+    "date": "2026-01-25",
+    "week": 26,
+    "name": "1h30mins Easy Long @ G-Ez Pace",
+    "tags": [
+      "easy runs"
+    ],
+    "avgHR": 135,
+    "intensity": null,
+    "distance": 15.01,
+    "movingTime": 6161,
+    "pace": 6.843,
+    "duration": null,
+    "reps": null,
+    "intervalPace": null
+  },
+  {
+    "id": "i120763942",
+    "date": "2026-01-27",
+    "week": 27,
+    "name": "45mins Easy @ G-Ez Pace",
+    "tags": [
+      "easy runs"
+    ],
+    "avgHR": 130,
+    "intensity": null,
+    "distance": 6.73,
+    "movingTime": 2699,
+    "pace": 6.688,
+    "duration": null,
+    "reps": null,
+    "intervalPace": null
+  },
+  {
+    "id": "i121032184",
+    "date": "2026-01-28",
+    "week": 27,
+    "name": "10x3mins SubT @ 15KP turn into 6x3mins (4:43, 4:35, 4:40, 4:32, 4:48, 4:35)",
+    "tags": [
+      "SubT"
+    ],
+    "avgHR": 153,
+    "intensity": null,
+    "distance": 8.47,
+    "movingTime": 2961,
+    "pace": 5.823,
+    "duration": 3,
+    "reps": 10,
+    "intervalPace": 4.647
+  },
+  {
+    "id": "i121268678",
+    "date": "2026-01-29",
+    "week": 27,
+    "name": "50mins Easy @ G-Ez Pace",
+    "tags": [
+      "easy runs"
+    ],
+    "avgHR": 132,
+    "intensity": null,
+    "distance": 8.45,
+    "movingTime": 3384,
+    "pace": 6.679,
+    "duration": null,
+    "reps": null,
+    "intervalPace": null
+  },
+  {
+    "id": "i121680053",
+    "date": "2026-01-31",
+    "week": 27,
+    "name": "3x17mins SubT @ MP (5:08, 5:17, 5:13)",
+    "tags": [
+      "SubT"
+    ],
+    "avgHR": 148,
+    "intensity": null,
+    "distance": 14.73,
+    "movingTime": 5253,
+    "pace": 5.942,
+    "duration": 17,
+    "reps": 3,
+    "intervalPace": 5.211
+  },
+  {
+    "id": "i121889272",
+    "date": "2026-02-01",
+    "week": 27,
+    "name": "1h15mins Easy Long @ G-Ez Pace",
+    "tags": [
+      "easy runs"
+    ],
+    "avgHR": 132,
+    "intensity": null,
+    "distance": 16.25,
+    "movingTime": 6758,
+    "pace": 6.931,
+    "duration": null,
+    "reps": null,
+    "intervalPace": null
+  },
+  {
+    "id": "i122339370",
+    "date": "2026-02-03",
+    "week": 28,
+    "name": "2x10mins SubT @ MP (5:08, 5:10)",
+    "tags": [
+      "SubT"
+    ],
+    "avgHR": 142,
+    "intensity": null,
+    "distance": 7.19,
+    "movingTime": 2565,
+    "pace": 5.948,
+    "duration": 10,
+    "reps": 2,
+    "intervalPace": 5.15
+  },
+  {
+    "id": "i122624800",
+    "date": "2026-02-04",
+    "week": 28,
+    "name": "Morning Run",
+    "tags": [
+      "easy runs"
+    ],
+    "avgHR": 143,
+    "intensity": null,
+    "distance": 9.1,
+    "movingTime": 3551,
+    "pace": 6.503,
+    "duration": null,
+    "reps": null,
+    "intervalPace": null
+  },
+  {
+    "id": "i122838627",
+    "date": "2026-02-05",
+    "week": 28,
+    "name": "4x3mins SubT @ 15KP (4:22, 4:34, 4:31, 4:30)",
+    "tags": [
+      "SubT"
+    ],
+    "avgHR": 141,
+    "intensity": null,
+    "distance": 4.69,
+    "movingTime": 1701,
+    "pace": 6.05,
+    "duration": 3,
+    "reps": 4,
+    "intervalPace": 4.487
+  },
+  {
+    "id": "i123368069",
+    "date": "2026-02-07",
+    "week": 28,
+    "name": "30mins Easy @ G-Ez Pace",
+    "tags": [
+      "easy runs"
+    ],
+    "avgHR": 132,
+    "intensity": null,
+    "distance": 5.0,
+    "movingTime": 1900,
+    "pace": 6.331,
+    "duration": null,
+    "reps": null,
+    "intervalPace": null
+  },
+  {
+    "id": "i123613424",
+    "date": "2026-02-08",
+    "week": 28,
+    "name": "MAIWP 10k RUN",
+    "tags": [
+      "RACE"
+    ],
+    "avgHR": 180,
+    "intensity": null,
+    "distance": 10.18,
+    "movingTime": 2846,
+    "pace": 4.661,
+    "duration": null,
+    "reps": null,
+    "intervalPace": null
+  },
+  {
+    "id": "i123604176",
+    "date": "2026-02-08",
+    "week": 28,
+    "name": "Morning Run",
+    "tags": [
+      "easy runs"
+    ],
+    "avgHR": 142,
+    "intensity": null,
+    "distance": 2.29,
+    "movingTime": 888,
+    "pace": 6.46,
+    "duration": null,
+    "reps": null,
+    "intervalPace": null
+  },
+  {
+    "id": "i124035565",
+    "date": "2026-02-10",
+    "week": 29,
+    "name": "Easy Run - 30min",
+    "tags": [
+      "easy runs"
+    ],
+    "avgHR": 121,
+    "intensity": null,
+    "distance": 5.45,
+    "movingTime": 2339,
+    "pace": 7.148,
+    "duration": null,
+    "reps": null,
+    "intervalPace": null
+  },
+  {
+    "id": "i124306245",
+    "date": "2026-02-11",
+    "week": 29,
+    "name": "Morning Run",
+    "tags": [
+      "easy runs"
+    ],
+    "avgHR": 126,
+    "intensity": null,
+    "distance": 2.67,
+    "movingTime": 1218,
+    "pace": 7.617,
+    "duration": null,
+    "reps": null,
+    "intervalPace": null
+  },
+  {
+    "id": "i124299381",
+    "date": "2026-02-11",
+    "week": 29,
+    "name": "Easy Run - 45min",
+    "tags": [
+      "easy runs"
+    ],
+    "avgHR": 121,
+    "intensity": null,
+    "distance": 6.24,
+    "movingTime": 2698,
+    "pace": 7.207,
+    "duration": null,
+    "reps": null,
+    "intervalPace": null
+  },
+  {
+    "id": "i124567484",
+    "date": "2026-02-12",
+    "week": 29,
+    "name": "Easy Run - 45min",
+    "tags": [
+      "easy runs"
+    ],
+    "avgHR": 130,
+    "intensity": null,
+    "distance": 6.86,
+    "movingTime": 2699,
+    "pace": 6.561,
+    "duration": null,
+    "reps": null,
+    "intervalPace": null
+  },
+  {
+    "id": "i124800596",
+    "date": "2026-02-13",
+    "week": 29,
+    "name": "Sub-Threshold 9x3min (5:04, 4:56, 4:52, 4:54, 4:53, 4:53, 4:50, 4:56, 4:54)",
+    "tags": [
+      "SubT"
+    ],
+    "avgHR": 144,
+    "intensity": null,
+    "distance": 8.29,
+    "movingTime": 3059,
+    "pace": 6.148,
+    "duration": 3,
+    "reps": 9,
+    "intervalPace": 4.911
+  },
+  {
+    "id": "i125021241",
+    "date": "2026-02-14",
+    "week": 29,
+    "name": "Easy Run - 45min",
+    "tags": [
+      "easy runs"
+    ],
+    "avgHR": 127,
+    "intensity": null,
+    "distance": 6.65,
+    "movingTime": 2700,
+    "pace": 6.766,
+    "duration": null,
+    "reps": null,
+    "intervalPace": null
+  },
+  {
+    "id": "i125257346",
+    "date": "2026-02-15",
+    "week": 29,
+    "name": "Long Run - 75min",
+    "tags": [
+      "easy runs"
+    ],
+    "avgHR": 134,
+    "intensity": null,
+    "distance": 10.39,
+    "movingTime": 4226,
+    "pace": 6.778,
+    "duration": null,
+    "reps": null,
+    "intervalPace": null
+  },
+  {
+    "id": "i125473947",
+    "date": "2026-02-16",
+    "week": 30,
+    "name": "Sub-Threshold 3x10min (5:16, 5:07, 5:09)",
+    "tags": [
+      "SubT"
+    ],
+    "avgHR": 143,
+    "intensity": null,
+    "distance": 8.49,
+    "movingTime": 3059,
+    "pace": 6.007,
+    "duration": 10,
+    "reps": 3,
+    "intervalPace": 5.178
+  },
+  {
+    "id": "i125696931",
+    "date": "2026-02-17",
+    "week": 30,
+    "name": "Easy Run - 45min",
+    "tags": [
+      "easy runs"
+    ],
+    "avgHR": 129,
+    "intensity": null,
+    "distance": 6.74,
+    "movingTime": 2699,
+    "pace": 6.671,
+    "duration": null,
+    "reps": null,
+    "intervalPace": null
+  },
+  {
+    "id": "i125993739",
+    "date": "2026-02-18",
+    "week": 30,
+    "name": "Sub-Threshold 5x6min (5:07, 5:08, 5:02, 5:05, 5:02)",
+    "tags": [
+      "SubT"
+    ],
+    "avgHR": 146,
+    "intensity": null,
+    "distance": 8.75,
+    "movingTime": 3148,
+    "pace": 5.998,
+    "duration": 6,
+    "reps": 5,
+    "intervalPace": 5.08
+  },
+  {
+    "id": "i126197031",
+    "date": "2026-02-19",
+    "week": 30,
+    "name": "Easy Run - 45min",
+    "tags": [
+      "easy runs"
+    ],
+    "avgHR": 126,
+    "intensity": null,
+    "distance": 6.93,
+    "movingTime": 2699,
+    "pace": 6.486,
+    "duration": null,
+    "reps": null,
+    "intervalPace": null
+  },
+  {
+    "id": "i126432024",
+    "date": "2026-02-20",
+    "week": 30,
+    "name": "Sub-Threshold 9x3min (4:47, 4:54, 4:37, 4:47, 4:40, 4:43, 4:45, 4:48, 4:41)",
+    "tags": [
+      "SubT"
+    ],
+    "avgHR": 144,
+    "intensity": null,
+    "distance": 8.5,
+    "movingTime": 2999,
+    "pace": 5.881,
+    "duration": 3,
+    "reps": 9,
+    "intervalPace": 4.744
+  },
+  {
+    "id": "i126660673",
+    "date": "2026-02-21",
+    "week": 30,
+    "name": "Easy Run - 45min",
+    "tags": [
+      "easy runs"
+    ],
+    "avgHR": 129,
+    "intensity": null,
+    "distance": 6.68,
+    "movingTime": 2696,
+    "pace": 6.728,
+    "duration": null,
+    "reps": null,
+    "intervalPace": null
+  },
+  {
+    "id": "i126872272",
+    "date": "2026-02-22",
+    "week": 30,
+    "name": "Long Run - 75mins",
+    "tags": [
+      "easy runs"
+    ],
+    "avgHR": 142,
+    "intensity": null,
+    "distance": 11.36,
+    "movingTime": 4491,
+    "pace": 6.59,
+    "duration": null,
+    "reps": null,
+    "intervalPace": null
+  },
+  {
+    "id": "i127135869",
+    "date": "2026-02-23",
+    "week": 31,
+    "name": "Sub-Threshold 3x10min (5:11, 5:10, 5:07)",
+    "tags": [
+      "SubT"
+    ],
+    "avgHR": 140,
+    "intensity": null,
+    "distance": 8.7,
+    "movingTime": 3059,
+    "pace": 5.859,
+    "duration": 10,
+    "reps": 3,
+    "intervalPace": 5.156
+  },
+  {
+    "id": "i127349233",
+    "date": "2026-02-24",
+    "week": 31,
+    "name": "Easy Run - 45min",
+    "tags": [
+      "easy runs"
+    ],
+    "avgHR": 125,
+    "intensity": null,
+    "distance": 6.54,
+    "movingTime": 2699,
+    "pace": 6.878,
+    "duration": null,
+    "reps": null,
+    "intervalPace": null
+  },
+  {
+    "id": "i128534150",
+    "date": "2026-03-01",
+    "week": 31,
+    "name": "Long Run - 75min",
+    "tags": [
+      "easy runs"
+    ],
+    "avgHR": 133,
+    "intensity": null,
+    "distance": 10.01,
+    "movingTime": 4222,
+    "pace": 7.03,
+    "duration": null,
+    "reps": null,
+    "intervalPace": null
+  },
+  {
+    "id": "i129033092",
+    "date": "2026-03-03",
+    "week": 32,
+    "name": "Sub-Threshold 8x3min (5:07, 5:00, 5:05, 5:04, 4:51, 4:58, 4:53, 4:55)",
+    "tags": [
+      "SubT"
+    ],
+    "avgHR": 138,
+    "intensity": null,
+    "distance": 7.72,
+    "movingTime": 2819,
+    "pace": 6.089,
+    "duration": 3,
+    "reps": 8,
+    "intervalPace": 4.985
+  },
+  {
+    "id": "i129305330",
+    "date": "2026-03-04",
+    "week": 32,
+    "name": "Early morning Run",
+    "tags": [
+      "easy runs"
+    ],
+    "avgHR": 130,
+    "intensity": null,
+    "distance": 9.53,
+    "movingTime": 3872,
+    "pace": 6.773,
+    "duration": null,
+    "reps": null,
+    "intervalPace": null
+  },
+  {
+    "id": "i129580948",
+    "date": "2026-03-05",
+    "week": 32,
+    "name": "Sub-Threshold 4x6min (4:59, 5:02, 4:55, 5:04)",
+    "tags": [
+      "SubT"
+    ],
+    "avgHR": 140,
+    "intensity": null,
+    "distance": 8.31,
+    "movingTime": 3000,
+    "pace": 6.019,
+    "duration": 6,
+    "reps": 4,
+    "intervalPace": 5.0
+  },
+  {
+    "id": "i130083727",
+    "date": "2026-03-07",
+    "week": 32,
+    "name": "Easy Run - 45min",
+    "tags": [
+      "easy runs"
+    ],
+    "avgHR": 134,
+    "intensity": null,
+    "distance": 6.01,
+    "movingTime": 2299,
+    "pace": 6.378,
+    "duration": null,
+    "reps": null,
+    "intervalPace": null
+  },
+  {
+    "id": "i130307550",
+    "date": "2026-03-08",
+    "week": 32,
+    "name": "Long Run - 75min",
+    "tags": [
+      "easy runs"
+    ],
+    "avgHR": 131,
+    "intensity": null,
+    "distance": 5.98,
+    "movingTime": 2412,
+    "pace": 6.727,
+    "duration": null,
+    "reps": null,
+    "intervalPace": null
+  },
+  {
+    "id": "i130794186",
+    "date": "2026-03-10",
+    "week": 33,
+    "name": "Sub-Threshold 4x6min (5:05, 5:00, 4:59, 4:58)",
+    "tags": [
+      "SubT"
+    ],
+    "avgHR": 142,
+    "intensity": null,
+    "distance": 8.44,
+    "movingTime": 3027,
+    "pace": 5.98,
+    "duration": 6,
+    "reps": 4,
+    "intervalPace": 5.008
+  },
+  {
+    "id": "i131068763",
+    "date": "2026-03-11",
+    "week": 33,
+    "name": "Early morning Run",
+    "tags": [
+      "easy runs"
+    ],
+    "avgHR": 132,
+    "intensity": null,
+    "distance": 10.01,
+    "movingTime": 3992,
+    "pace": 6.649,
+    "duration": null,
+    "reps": null,
+    "intervalPace": null
+  },
+  {
+    "id": "i131331417",
+    "date": "2026-03-12",
+    "week": 33,
+    "name": "Sub-Threshold 2x12min (5:02, 4:59)",
+    "tags": [
+      "SubT"
+    ],
+    "avgHR": 144,
+    "intensity": null,
+    "distance": 8.01,
+    "movingTime": 2786,
+    "pace": 5.798,
+    "duration": 12,
+    "reps": 2,
+    "intervalPace": 5.008
+  },
+  {
+    "id": "i131797683",
+    "date": "2026-03-14",
+    "week": 33,
+    "name": "Easy Run - 45min",
+    "tags": [
+      "easy runs"
+    ],
+    "avgHR": 136,
+    "intensity": null,
+    "distance": 6.9,
+    "movingTime": 2698,
+    "pace": 6.518,
+    "duration": null,
+    "reps": null,
+    "intervalPace": null
+  },
+  {
+    "id": "i132309529",
+    "date": "2026-03-16",
+    "week": 34,
+    "name": "Early morning Run",
+    "tags": [
+      "easy runs"
+    ],
+    "avgHR": 127,
+    "intensity": null,
+    "distance": 6.86,
+    "movingTime": 2636,
+    "pace": 6.401,
+    "duration": null,
+    "reps": null,
+    "intervalPace": null
+  },
+  {
+    "id": "i132555140",
+    "date": "2026-03-17",
+    "week": 34,
+    "name": "Sub-Threshold 4x6min (5:02, 4:57, 4:55, 4:57)",
+    "tags": [
+      "SubT"
+    ],
+    "avgHR": 143,
+    "intensity": null,
+    "distance": 8.29,
+    "movingTime": 2996,
+    "pace": 6.026,
+    "duration": 6,
+    "reps": 4,
+    "intervalPace": 4.963
+  },
+  {
+    "id": "i132845786",
+    "date": "2026-03-18",
+    "week": 34,
+    "name": "Easy Run - 45min",
+    "tags": [
+      "easy runs"
+    ],
+    "avgHR": 126,
+    "intensity": null,
+    "distance": 7.43,
+    "movingTime": 3091,
+    "pace": 6.935,
+    "duration": null,
+    "reps": null,
+    "intervalPace": null
+  },
+  {
+    "id": "i133108691",
+    "date": "2026-03-19",
+    "week": 34,
+    "name": "Sub-Threshold 2x12min (5:01, 5:01)",
+    "tags": [
+      "SubT"
+    ],
+    "avgHR": 144,
+    "intensity": null,
+    "distance": 8.02,
+    "movingTime": 2845,
+    "pace": 5.91,
+    "duration": 12,
+    "reps": 2,
+    "intervalPace": 5.017
+  },
+  {
+    "id": "i133340442",
+    "date": "2026-03-20",
+    "week": 34,
+    "name": "Early morning Run",
+    "tags": [
+      "easy runs"
+    ],
+    "avgHR": 129,
+    "intensity": null,
+    "distance": 6.18,
+    "movingTime": 2479,
+    "pace": 6.683,
+    "duration": null,
+    "reps": null,
+    "intervalPace": null
+  },
+  {
+    "id": "i133666526",
+    "date": "2026-03-21",
+    "week": 34,
+    "name": "Sub-Threshold 6x3min (4:36, 4:40, 4:36, 4:43, 4:41, 4:37)",
+    "tags": [
+      "SubT"
+    ],
+    "avgHR": 153,
+    "intensity": null,
+    "distance": 5.81,
+    "movingTime": 2042,
+    "pace": 5.854,
+    "duration": 3,
+    "reps": 6,
+    "intervalPace": 4.647
+  },
+  {
+    "id": "i133788570",
+    "date": "2026-03-22",
+    "week": 34,
+    "name": "Early morning Run",
+    "tags": [
+      "easy runs"
+    ],
+    "avgHR": 135,
+    "intensity": null,
+    "distance": 11.57,
+    "movingTime": 4499,
+    "pace": 6.481,
+    "duration": null,
+    "reps": null,
+    "intervalPace": null
+  },
+  {
+    "id": "i134049600",
+    "date": "2026-03-23",
+    "week": 35,
+    "name": "Easy Run - 45min",
+    "tags": [
+      "easy runs"
+    ],
+    "avgHR": 129,
+    "intensity": null,
+    "distance": 6.97,
+    "movingTime": 2699,
+    "pace": 6.455,
+    "duration": null,
+    "reps": null,
+    "intervalPace": null
+  }
+]
