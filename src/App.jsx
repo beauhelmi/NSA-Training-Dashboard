@@ -258,7 +258,10 @@ function SubPanel({ data }) {
           }}>{DUR_LABELS[dur] || `${dur} min`}</button>
         ))}
       </div>
-
+      <Insight>
+        <strong>Tag-driven data:</strong> {data.length} sessions tagged <code>#subT</code> — all interval
+        formats automatically grouped by duration. Use the filter buttons to isolate any duration.
+      </Insight>
       <p style={{ fontSize:12, color:"#aaa", marginBottom:6 }}>Each dot = one session. Hover for details.</p>
       <ResponsiveContainer width="100%" height={260}>
         <ScatterChart margin={{ top:10, right:20, left:0, bottom:20 }}>
@@ -367,10 +370,7 @@ function SubPanel({ data }) {
         </table>
       </div>
 
-      <Insight>
-        <strong>Tag-driven data:</strong> {data.length} sessions tagged <code>#subT</code> — all interval
-        formats automatically grouped by duration. Use the filter buttons to isolate any duration.
-      </Insight>
+     
     </div>
   );
 }
