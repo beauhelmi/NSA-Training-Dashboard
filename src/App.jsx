@@ -456,8 +456,7 @@ function WeeklyPanel({ weeklyData }) {
 
       <Insight>
         <strong>{weeklyData.length} weeks of training:</strong> {totalKmAll.toFixed(0)} km total.
-        Peak was {peakWeek.totalKm} km in Week {peakWeek.week}. This updates automatically every time
-        you run the fetch script.
+        Peak was {peakWeek.totalKm} km in Week {peakWeek.week}. This updates is automatic. 
       </Insight>
     </div>
   );
