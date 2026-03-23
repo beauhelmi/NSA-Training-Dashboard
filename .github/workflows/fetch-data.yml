@@ -1,0 +1,36 @@
+name: Fetch Intervals.icu Data
+
+on:
+  schedule:
+    - cron: "0 17 * * *"   # runs daily at 1AM Malaysia time (UTC+8 = 17:00 UTC)
+  workflow_dispatch:         # allows manual trigger from GitHub website
+
+jobs:
+  fetch-data:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: pip install requests python-dotenv
+
+      - name: Run fetch script
+        env:
+          INTERVALS_ATHLETE_ID: ${{ secrets.INTERVALS_ATHLETE_ID }}
+          INTERVALS_API_KEY: ${{ secrets.INTERVALS_API_KEY }}
+        run: python fetch_data.py
+
+      - name: Commit and push updated data.json
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add public/data.json
+          git diff --staged --quiet || git commit -m "auto: update training data $(date +'%Y-%m-%d')"
+          git push
