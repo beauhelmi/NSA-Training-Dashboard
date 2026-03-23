@@ -8,6 +8,7 @@
       "easy runs"
     ],
     "avgHR": 126,
+    "workoutHR": null,
     "intensity": null,
     "distance": 7.01,
     "movingTime": 2988,
@@ -25,6 +26,7 @@
       "easy runs"
     ],
     "avgHR": 124,
+    "workoutHR": null,
     "intensity": null,
     "distance": 7.0,
     "movingTime": 2947,
@@ -42,6 +44,7 @@
       "SubT"
     ],
     "avgHR": 152,
+    "workoutHR": 161,
     "intensity": null,
     "distance": 8.1,
     "movingTime": 2990,
@@ -59,6 +62,7 @@
       "easy runs"
     ],
     "avgHR": 134,
+    "workoutHR": null,
     "intensity": null,
     "distance": 4.71,
     "movingTime": 1949,
@@ -76,6 +80,7 @@
       "easy runs"
     ],
     "avgHR": 134,
+    "workoutHR": null,
     "intensity": null,
     "distance": 4.01,
     "movingTime": 1688,
@@ -93,6 +98,7 @@
       "easy runs"
     ],
     "avgHR": 126,
+    "workoutHR": null,
     "intensity": null,
     "distance": 7.01,
     "movingTime": 2970,
@@ -110,6 +116,7 @@
       "SubT"
     ],
     "avgHR": 146,
+    "workoutHR": 155,
     "intensity": null,
     "distance": 7.85,
     "movingTime": 2878,
@@ -127,6 +134,7 @@
       "easy runs"
     ],
     "avgHR": 129,
+    "workoutHR": null,
     "intensity": null,
     "distance": 9.07,
     "movingTime": 3797,
@@ -144,6 +152,7 @@
       "easy runs"
     ],
     "avgHR": 128,
+    "workoutHR": null,
     "intensity": null,
     "distance": 7.01,
     "movingTime": 2902,
@@ -161,6 +170,7 @@
       "SubT"
     ],
     "avgHR": 143,
+    "workoutHR": 151,
     "intensity": null,
     "distance": 8.28,
     "movingTime": 3018,
@@ -178,6 +188,7 @@
       "easy runs"
     ],
     "avgHR": 125,
+    "workoutHR": null,
     "intensity": null,
     "distance": 10.0,
     "movingTime": 4412,
@@ -195,6 +206,7 @@
       "SubT"
     ],
     "avgHR": 136,
+    "workoutHR": 148,
     "intensity": null,
     "distance": 8.03,
     "movingTime": 2964,
@@ -212,6 +224,7 @@
       "easy runs"
     ],
     "avgHR": 128,
+    "workoutHR": null,
     "intensity": null,
     "distance": 7.0,
     "movingTime": 2941,
@@ -229,6 +242,7 @@
       "SubT"
     ],
     "avgHR": 137,
+    "workoutHR": 145,
     "intensity": null,
     "distance": 6.65,
     "movingTime": 2399,
@@ -246,6 +260,7 @@
       "easy runs"
     ],
     "avgHR": 120,
+    "workoutHR": null,
     "intensity": null,
     "distance": 10.01,
     "movingTime": 4331,
@@ -263,6 +278,7 @@
       "easy runs"
     ],
     "avgHR": 125,
+    "workoutHR": null,
     "intensity": null,
     "distance": 7.0,
     "movingTime": 2890,
@@ -280,6 +296,7 @@
       "SubT"
     ],
     "avgHR": 143,
+    "workoutHR": 153,
     "intensity": null,
     "distance": 8.02,
     "movingTime": 2909,
@@ -297,6 +314,7 @@
       "easy runs"
     ],
     "avgHR": 131,
+    "workoutHR": null,
     "intensity": null,
     "distance": 7.01,
     "movingTime": 2950,
@@ -314,6 +332,7 @@
       "SubT"
     ],
     "avgHR": 141,
+    "workoutHR": 151,
     "intensity": null,
     "distance": 8.0,
     "movingTime": 2926,
@@ -331,6 +350,7 @@
       "easy runs"
     ],
     "avgHR": 122,
+    "workoutHR": null,
     "intensity": null,
     "distance": 7.01,
     "movingTime": 2670,
@@ -348,6 +368,7 @@
       "SubT"
     ],
     "avgHR": 141,
+    "workoutHR": 147,
     "intensity": null,
     "distance": 8.03,
     "movingTime": 2691,
@@ -365,6 +386,7 @@
       "easy runs"
     ],
     "avgHR": 138,
+    "workoutHR": null,
     "intensity": null,
     "distance": 8.51,
     "movingTime": 3712,
@@ -382,6 +404,7 @@
       "easy runs"
     ],
     "avgHR": 122,
+    "workoutHR": null,
     "intensity": null,
     "distance": 3.0,
     "movingTime": 1086,
@@ -399,6 +422,7 @@
       "easy runs"
     ],
     "avgHR": 119,
+    "workoutHR": null,
     "intensity": null,
     "distance": 7.0,
     "movingTime": 3083,
@@ -416,6 +440,7 @@
       "SubT"
     ],
     "avgHR": 148,
+    "workoutHR": 156,
     "intensity": null,
     "distance": 7.01,
     "movingTime": 2552,
@@ -433,6 +458,7 @@
       "SubT"
     ],
     "avgHR": 125,
+    "workoutHR": 125,
     "intensity": null,
     "distance": 7.01,
     "movingTime": 2543,
@@ -450,6 +476,7 @@
       "easy runs"
     ],
     "avgHR": 96,
+    "workoutHR": null,
     "intensity": null,
     "distance": 8.39,
     "movingTime": 5127,
@@ -467,6 +494,7 @@
       "SubT"
     ],
     "avgHR": 141,
+    "workoutHR": 155,
     "intensity": null,
     "distance": 9.02,
     "movingTime": 3310,
@@ -484,6 +512,7 @@
       "SubT"
     ],
     "avgHR": 125,
+    "workoutHR": null,
     "intensity": null,
     "distance": 7.0,
     "movingTime": 2897,
@@ -501,6 +530,7 @@
       "SubT"
     ],
     "avgHR": 141,
+    "workoutHR": 158,
     "intensity": null,
     "distance": 8.01,
     "movingTime": 2961,
@@ -518,6 +548,7 @@
       "easy runs"
     ],
     "avgHR": 129,
+    "workoutHR": null,
     "intensity": null,
     "distance": 10.0,
     "movingTime": 4205,
@@ -535,6 +566,7 @@
       "easy runs"
     ],
     "avgHR": 129,
+    "workoutHR": null,
     "intensity": null,
     "distance": 7.01,
     "movingTime": 2819,
@@ -552,6 +584,7 @@
       "SubT"
     ],
     "avgHR": 145,
+    "workoutHR": 157,
     "intensity": null,
     "distance": 9.0,
     "movingTime": 3226,
@@ -569,6 +602,7 @@
       "easy runs"
     ],
     "avgHR": 122,
+    "workoutHR": null,
     "intensity": null,
     "distance": 5.85,
     "movingTime": 2688,
@@ -586,6 +620,7 @@
       "SubT"
     ],
     "avgHR": 152,
+    "workoutHR": 163,
     "intensity": null,
     "distance": 8.77,
     "movingTime": 3129,
@@ -603,6 +638,7 @@
       "easy runs"
     ],
     "avgHR": 133,
+    "workoutHR": null,
     "intensity": null,
     "distance": 5.1,
     "movingTime": 1797,
@@ -620,6 +656,7 @@
       "easy runs"
     ],
     "avgHR": 129,
+    "workoutHR": null,
     "intensity": null,
     "distance": 7.0,
     "movingTime": 2795,
@@ -637,6 +674,7 @@
       "SubT"
     ],
     "avgHR": 147,
+    "workoutHR": 160,
     "intensity": null,
     "distance": 9.25,
     "movingTime": 3383,
@@ -654,6 +692,7 @@
       "easy runs"
     ],
     "avgHR": 129,
+    "workoutHR": null,
     "intensity": null,
     "distance": 11.01,
     "movingTime": 4661,
@@ -671,6 +710,7 @@
       "easy runs"
     ],
     "avgHR": 126,
+    "workoutHR": null,
     "intensity": null,
     "distance": 7.02,
     "movingTime": 2998,
@@ -686,6 +726,7 @@
     "name": "8 x 3mins (5:07, 4:49, 4:47, 4:42, 4:45, 4:36, 4:44, 4:35)",
     "tags": [],
     "avgHR": 143,
+    "workoutHR": null,
     "intensity": null,
     "distance": 8.65,
     "movingTime": 2996,
@@ -703,6 +744,7 @@
       "SubT"
     ],
     "avgHR": 149,
+    "workoutHR": 147,
     "intensity": null,
     "distance": 8.33,
     "movingTime": 2677,
@@ -720,6 +762,7 @@
       "easy runs"
     ],
     "avgHR": 126,
+    "workoutHR": null,
     "intensity": null,
     "distance": 7.25,
     "movingTime": 2994,
@@ -737,6 +780,7 @@
       "SubT"
     ],
     "avgHR": 154,
+    "workoutHR": 162,
     "intensity": null,
     "distance": 8.47,
     "movingTime": 2996,
@@ -754,6 +798,7 @@
       "easy runs"
     ],
     "avgHR": 130,
+    "workoutHR": null,
     "intensity": null,
     "distance": 13.06,
     "movingTime": 5398,
@@ -771,6 +816,7 @@
       "easy runs"
     ],
     "avgHR": 130,
+    "workoutHR": null,
     "intensity": null,
     "distance": 7.29,
     "movingTime": 2998,
@@ -788,6 +834,7 @@
       "SubT"
     ],
     "avgHR": 147,
+    "workoutHR": 157,
     "intensity": null,
     "distance": 8.48,
     "movingTime": 2998,
@@ -805,6 +852,7 @@
       "easy runs"
     ],
     "avgHR": 129,
+    "workoutHR": null,
     "intensity": null,
     "distance": 6.0,
     "movingTime": 2399,
@@ -822,6 +870,7 @@
       "SubT"
     ],
     "avgHR": 149,
+    "workoutHR": 159,
     "intensity": null,
     "distance": 8.48,
     "movingTime": 2996,
@@ -839,6 +888,7 @@
       "easy runs"
     ],
     "avgHR": 132,
+    "workoutHR": null,
     "intensity": null,
     "distance": 0.4,
     "movingTime": 168,
@@ -856,6 +906,7 @@
       "easy runs"
     ],
     "avgHR": 129,
+    "workoutHR": null,
     "intensity": null,
     "distance": 7.7,
     "movingTime": 2998,
@@ -873,6 +924,7 @@
       "SubT"
     ],
     "avgHR": 143,
+    "workoutHR": 152,
     "intensity": null,
     "distance": 8.32,
     "movingTime": 2996,
@@ -890,6 +942,7 @@
       "easy runs"
     ],
     "avgHR": 141,
+    "workoutHR": null,
     "intensity": null,
     "distance": 12.92,
     "movingTime": 4941,
@@ -907,6 +960,7 @@
       "easy runs"
     ],
     "avgHR": 130,
+    "workoutHR": null,
     "intensity": null,
     "distance": 4.43,
     "movingTime": 1903,
@@ -924,6 +978,7 @@
       "SubT"
     ],
     "avgHR": 156,
+    "workoutHR": 164,
     "intensity": null,
     "distance": 3.35,
     "movingTime": 1100,
@@ -941,6 +996,7 @@
       "easy runs"
     ],
     "avgHR": 126,
+    "workoutHR": null,
     "intensity": null,
     "distance": 4.78,
     "movingTime": 1919,
@@ -958,6 +1014,7 @@
       "easy runs"
     ],
     "avgHR": 133,
+    "workoutHR": null,
     "intensity": null,
     "distance": 0.26,
     "movingTime": 114,
@@ -975,6 +1032,7 @@
       "SubT"
     ],
     "avgHR": 148,
+    "workoutHR": 170,
     "intensity": null,
     "distance": 3.74,
     "movingTime": 1226,
@@ -992,6 +1050,7 @@
       "easy runs"
     ],
     "avgHR": 133,
+    "workoutHR": null,
     "intensity": null,
     "distance": 3.5,
     "movingTime": 1557,
@@ -1009,6 +1068,7 @@
       "easy runs"
     ],
     "avgHR": 127,
+    "workoutHR": null,
     "intensity": null,
     "distance": 4.54,
     "movingTime": 1795,
@@ -1026,6 +1086,7 @@
       "easy runs"
     ],
     "avgHR": 121,
+    "workoutHR": null,
     "intensity": null,
     "distance": 5.02,
     "movingTime": 3160,
@@ -1043,6 +1104,7 @@
       "RACE"
     ],
     "avgHR": 183,
+    "workoutHR": null,
     "intensity": null,
     "distance": 5.09,
     "movingTime": 1334,
@@ -1060,6 +1122,7 @@
       "easy runs"
     ],
     "avgHR": 136,
+    "workoutHR": null,
     "intensity": null,
     "distance": 1.7,
     "movingTime": 713,
@@ -1077,6 +1140,7 @@
       "easy runs"
     ],
     "avgHR": 90,
+    "workoutHR": null,
     "intensity": null,
     "distance": 2.0,
     "movingTime": 1304,
@@ -1094,6 +1158,7 @@
       "easy runs"
     ],
     "avgHR": 125,
+    "workoutHR": null,
     "intensity": null,
     "distance": 7.09,
     "movingTime": 2997,
@@ -1111,6 +1176,7 @@
       "easy runs"
     ],
     "avgHR": 125,
+    "workoutHR": null,
     "intensity": null,
     "distance": 7.64,
     "movingTime": 2998,
@@ -1128,6 +1194,7 @@
       "SubT"
     ],
     "avgHR": 158,
+    "workoutHR": 165,
     "intensity": null,
     "distance": 9.1,
     "movingTime": 3013,
@@ -1145,6 +1212,7 @@
       "easy runs"
     ],
     "avgHR": 131,
+    "workoutHR": null,
     "intensity": null,
     "distance": 7.62,
     "movingTime": 2999,
@@ -1162,6 +1230,7 @@
       "SubT"
     ],
     "avgHR": 147,
+    "workoutHR": 154,
     "intensity": null,
     "distance": 10.3,
     "movingTime": 3595,
@@ -1179,6 +1248,7 @@
       "easy runs"
     ],
     "avgHR": 125,
+    "workoutHR": null,
     "intensity": null,
     "distance": 12.0,
     "movingTime": 5031,
@@ -1196,6 +1266,7 @@
       "SubT"
     ],
     "avgHR": 147,
+    "workoutHR": 154,
     "intensity": null,
     "distance": 10.29,
     "movingTime": 3596,
@@ -1213,6 +1284,7 @@
       "easy runs"
     ],
     "avgHR": 126,
+    "workoutHR": null,
     "intensity": null,
     "distance": 7.41,
     "movingTime": 2997,
@@ -1230,6 +1302,7 @@
       "SubT"
     ],
     "avgHR": 149,
+    "workoutHR": 159,
     "intensity": null,
     "distance": 8.26,
     "movingTime": 2877,
@@ -1247,6 +1320,7 @@
       "easy runs"
     ],
     "avgHR": 98,
+    "workoutHR": null,
     "intensity": null,
     "distance": 6.81,
     "movingTime": 4425,
@@ -1264,6 +1338,7 @@
       "easy runs"
     ],
     "avgHR": 124,
+    "workoutHR": null,
     "intensity": null,
     "distance": 4.75,
     "movingTime": 1818,
@@ -1281,6 +1356,7 @@
       "easy runs"
     ],
     "avgHR": 137,
+    "workoutHR": null,
     "intensity": null,
     "distance": 2.63,
     "movingTime": 1123,
@@ -1298,6 +1374,7 @@
       "easy runs"
     ],
     "avgHR": 147,
+    "workoutHR": null,
     "intensity": null,
     "distance": 1.46,
     "movingTime": 628,
@@ -1315,6 +1392,7 @@
       "RACE"
     ],
     "avgHR": 174,
+    "workoutHR": null,
     "intensity": null,
     "distance": 10.39,
     "movingTime": 2930,
@@ -1332,6 +1410,7 @@
       "easy runs"
     ],
     "avgHR": 135,
+    "workoutHR": null,
     "intensity": null,
     "distance": 4.02,
     "movingTime": 1637,
@@ -1349,6 +1428,7 @@
       "easy runs"
     ],
     "avgHR": 119,
+    "workoutHR": null,
     "intensity": null,
     "distance": 5.73,
     "movingTime": 2463,
@@ -1366,6 +1446,7 @@
       "easy runs"
     ],
     "avgHR": 126,
+    "workoutHR": null,
     "intensity": null,
     "distance": 5.77,
     "movingTime": 2397,
@@ -1383,6 +1464,7 @@
       "easy runs"
     ],
     "avgHR": 127,
+    "workoutHR": null,
     "intensity": null,
     "distance": 7.0,
     "movingTime": 2817,
@@ -1400,6 +1482,7 @@
       "easy runs"
     ],
     "avgHR": 122,
+    "workoutHR": null,
     "intensity": null,
     "distance": 10.0,
     "movingTime": 4576,
@@ -1417,6 +1500,7 @@
       "SubT"
     ],
     "avgHR": 146,
+    "workoutHR": 155,
     "intensity": null,
     "distance": 8.78,
     "movingTime": 2998,
@@ -1434,6 +1518,7 @@
       "SubT"
     ],
     "avgHR": 148,
+    "workoutHR": 158,
     "intensity": null,
     "distance": 9.52,
     "movingTime": 3296,
@@ -1451,6 +1536,7 @@
       "easy runs"
     ],
     "avgHR": 130,
+    "workoutHR": null,
     "intensity": null,
     "distance": 12.0,
     "movingTime": 5085,
@@ -1468,6 +1554,7 @@
       "easy runs"
     ],
     "avgHR": 126,
+    "workoutHR": null,
     "intensity": null,
     "distance": 7.42,
     "movingTime": 2995,
@@ -1485,6 +1572,7 @@
       "SubT"
     ],
     "avgHR": 154,
+    "workoutHR": 163,
     "intensity": null,
     "distance": 7.49,
     "movingTime": 2861,
@@ -1502,6 +1590,7 @@
       "easy runs"
     ],
     "avgHR": 138,
+    "workoutHR": null,
     "intensity": null,
     "distance": 11.3,
     "movingTime": 4290,
@@ -1519,6 +1608,7 @@
       "easy runs"
     ],
     "avgHR": 121,
+    "workoutHR": null,
     "intensity": null,
     "distance": 7.31,
     "movingTime": 3007,
@@ -1536,6 +1626,7 @@
       "SubT"
     ],
     "avgHR": 143,
+    "workoutHR": 151,
     "intensity": null,
     "distance": 8.72,
     "movingTime": 2994,
@@ -1553,6 +1644,7 @@
       "easy runs"
     ],
     "avgHR": 125,
+    "workoutHR": null,
     "intensity": null,
     "distance": 7.49,
     "movingTime": 2997,
@@ -1570,6 +1662,7 @@
       "SubT"
     ],
     "avgHR": 144,
+    "workoutHR": 152,
     "intensity": null,
     "distance": 8.67,
     "movingTime": 2994,
@@ -1587,6 +1680,7 @@
       "easy runs"
     ],
     "avgHR": 129,
+    "workoutHR": null,
     "intensity": null,
     "distance": 9.3,
     "movingTime": 4037,
@@ -1604,6 +1698,7 @@
       "SubT"
     ],
     "avgHR": 147,
+    "workoutHR": 154,
     "intensity": null,
     "distance": 10.28,
     "movingTime": 3433,
@@ -1621,6 +1716,7 @@
       "easy runs"
     ],
     "avgHR": 125,
+    "workoutHR": null,
     "intensity": null,
     "distance": 9.78,
     "movingTime": 4297,
@@ -1638,6 +1734,7 @@
       "SubT"
     ],
     "avgHR": 141,
+    "workoutHR": 150,
     "intensity": null,
     "distance": 8.62,
     "movingTime": 2968,
@@ -1655,6 +1752,7 @@
       "easy runs"
     ],
     "avgHR": 123,
+    "workoutHR": null,
     "intensity": null,
     "distance": 6.67,
     "movingTime": 2676,
@@ -1672,6 +1770,7 @@
       "SubT"
     ],
     "avgHR": 142,
+    "workoutHR": 153,
     "intensity": null,
     "distance": 9.18,
     "movingTime": 3176,
@@ -1689,6 +1788,7 @@
       "easy runs"
     ],
     "avgHR": 124,
+    "workoutHR": null,
     "intensity": null,
     "distance": 11.58,
     "movingTime": 4934,
@@ -1706,6 +1806,7 @@
       "easy runs"
     ],
     "avgHR": 128,
+    "workoutHR": null,
     "intensity": null,
     "distance": 7.2,
     "movingTime": 2997,
@@ -1723,6 +1824,7 @@
       "SubT"
     ],
     "avgHR": 156,
+    "workoutHR": 164,
     "intensity": null,
     "distance": 9.81,
     "movingTime": 3204,
@@ -1740,6 +1842,7 @@
       "easy runs"
     ],
     "avgHR": 111,
+    "workoutHR": null,
     "intensity": null,
     "distance": 4.88,
     "movingTime": 2646,
@@ -1757,6 +1860,7 @@
       "SubT"
     ],
     "avgHR": 149,
+    "workoutHR": 159,
     "intensity": null,
     "distance": 8.74,
     "movingTime": 3046,
@@ -1774,6 +1878,7 @@
       "easy runs"
     ],
     "avgHR": 128,
+    "workoutHR": null,
     "intensity": null,
     "distance": 8.94,
     "movingTime": 3595,
@@ -1791,6 +1896,7 @@
       "SubT"
     ],
     "avgHR": 149,
+    "workoutHR": 157,
     "intensity": null,
     "distance": 8.28,
     "movingTime": 2916,
@@ -1808,6 +1914,7 @@
       "easy runs"
     ],
     "avgHR": 130,
+    "workoutHR": null,
     "intensity": null,
     "distance": 16.89,
     "movingTime": 7689,
@@ -1825,6 +1932,7 @@
       "easy runs"
     ],
     "avgHR": 130,
+    "workoutHR": null,
     "intensity": null,
     "distance": 5.27,
     "movingTime": 2010,
@@ -1842,6 +1950,7 @@
       "SubT"
     ],
     "avgHR": 143,
+    "workoutHR": 150,
     "intensity": null,
     "distance": 9.36,
     "movingTime": 3130,
@@ -1859,6 +1968,7 @@
       "easy runs"
     ],
     "avgHR": 123,
+    "workoutHR": null,
     "intensity": null,
     "distance": 6.0,
     "movingTime": 2581,
@@ -1876,6 +1986,7 @@
       "SubT"
     ],
     "avgHR": 149,
+    "workoutHR": 157,
     "intensity": null,
     "distance": 9.29,
     "movingTime": 3124,
@@ -1893,6 +2004,7 @@
       "easy runs"
     ],
     "avgHR": 123,
+    "workoutHR": null,
     "intensity": null,
     "distance": 7.0,
     "movingTime": 2881,
@@ -1910,6 +2022,7 @@
       "SubT"
     ],
     "avgHR": 141,
+    "workoutHR": 149,
     "intensity": null,
     "distance": 9.99,
     "movingTime": 3576,
@@ -1927,6 +2040,7 @@
       "easy runs"
     ],
     "avgHR": 129,
+    "workoutHR": null,
     "intensity": null,
     "distance": 15.76,
     "movingTime": 7032,
@@ -1944,6 +2058,7 @@
       "easy runs"
     ],
     "avgHR": 127,
+    "workoutHR": null,
     "intensity": null,
     "distance": 7.58,
     "movingTime": 3109,
@@ -1961,6 +2076,7 @@
       "SubT"
     ],
     "avgHR": 149,
+    "workoutHR": 156,
     "intensity": null,
     "distance": 10.02,
     "movingTime": 3340,
@@ -1978,6 +2094,7 @@
       "easy runs"
     ],
     "avgHR": 124,
+    "workoutHR": null,
     "intensity": null,
     "distance": 9.54,
     "movingTime": 4135,
@@ -1995,6 +2112,7 @@
       "SubT"
     ],
     "avgHR": 147,
+    "workoutHR": 154,
     "intensity": null,
     "distance": 8.87,
     "movingTime": 3028,
@@ -2012,6 +2130,7 @@
       "easy runs"
     ],
     "avgHR": 128,
+    "workoutHR": null,
     "intensity": null,
     "distance": 7.59,
     "movingTime": 2998,
@@ -2029,6 +2148,7 @@
       "SubT"
     ],
     "avgHR": 158,
+    "workoutHR": 163,
     "intensity": null,
     "distance": 9.44,
     "movingTime": 3137,
@@ -2046,6 +2166,7 @@
       "easy runs"
     ],
     "avgHR": 130,
+    "workoutHR": null,
     "intensity": null,
     "distance": 15.54,
     "movingTime": 7318,
@@ -2063,6 +2184,7 @@
       "easy runs"
     ],
     "avgHR": 127,
+    "workoutHR": null,
     "intensity": null,
     "distance": 7.0,
     "movingTime": 2905,
@@ -2080,6 +2202,7 @@
       "SubT"
     ],
     "avgHR": 136,
+    "workoutHR": 147,
     "intensity": null,
     "distance": 6.56,
     "movingTime": 2268,
@@ -2097,6 +2220,7 @@
       "easy runs"
     ],
     "avgHR": 129,
+    "workoutHR": null,
     "intensity": null,
     "distance": 6.49,
     "movingTime": 2709,
@@ -2114,6 +2238,7 @@
       "SubT"
     ],
     "avgHR": 134,
+    "workoutHR": 148,
     "intensity": null,
     "distance": 6.0,
     "movingTime": 2188,
@@ -2131,6 +2256,7 @@
       "easy runs"
     ],
     "avgHR": 126,
+    "workoutHR": null,
     "intensity": null,
     "distance": 6.0,
     "movingTime": 2384,
@@ -2148,6 +2274,7 @@
       "SubT"
     ],
     "avgHR": 135,
+    "workoutHR": 147,
     "intensity": null,
     "distance": 6.01,
     "movingTime": 2217,
@@ -2165,6 +2292,7 @@
       "easy runs"
     ],
     "avgHR": 124,
+    "workoutHR": null,
     "intensity": null,
     "distance": 7.1,
     "movingTime": 3015,
@@ -2182,6 +2310,7 @@
       "easy runs"
     ],
     "avgHR": 132,
+    "workoutHR": null,
     "intensity": null,
     "distance": 3.46,
     "movingTime": 1351,
@@ -2197,6 +2326,7 @@
     "name": "CD",
     "tags": [],
     "avgHR": 82,
+    "workoutHR": null,
     "intensity": null,
     "distance": 2.87,
     "movingTime": 190,
@@ -2214,6 +2344,7 @@
       "RACE"
     ],
     "avgHR": 181,
+    "workoutHR": null,
     "intensity": null,
     "distance": 5.01,
     "movingTime": 1315,
@@ -2231,6 +2362,7 @@
       "easy runs"
     ],
     "avgHR": 133,
+    "workoutHR": null,
     "intensity": null,
     "distance": 2.53,
     "movingTime": 988,
@@ -2248,6 +2380,7 @@
       "easy runs"
     ],
     "avgHR": 123,
+    "workoutHR": null,
     "intensity": null,
     "distance": 5.98,
     "movingTime": 2463,
@@ -2265,6 +2398,7 @@
       "easy runs"
     ],
     "avgHR": 129,
+    "workoutHR": null,
     "intensity": null,
     "distance": 6.0,
     "movingTime": 2429,
@@ -2282,6 +2416,7 @@
       "easy runs"
     ],
     "avgHR": 128,
+    "workoutHR": null,
     "intensity": null,
     "distance": 7.88,
     "movingTime": 3287,
@@ -2299,6 +2434,7 @@
       "easy runs"
     ],
     "avgHR": 128,
+    "workoutHR": null,
     "intensity": null,
     "distance": 9.39,
     "movingTime": 3599,
@@ -2316,6 +2452,7 @@
       "easy runs"
     ],
     "avgHR": 136,
+    "workoutHR": null,
     "intensity": null,
     "distance": 15.61,
     "movingTime": 6216,
@@ -2333,6 +2470,7 @@
       "easy runs"
     ],
     "avgHR": 131,
+    "workoutHR": null,
     "intensity": null,
     "distance": 9.07,
     "movingTime": 3599,
@@ -2350,6 +2488,7 @@
       "SubT"
     ],
     "avgHR": 152,
+    "workoutHR": 162,
     "intensity": null,
     "distance": 8.83,
     "movingTime": 3000,
@@ -2367,6 +2506,7 @@
       "easy runs"
     ],
     "avgHR": 126,
+    "workoutHR": null,
     "intensity": null,
     "distance": 7.01,
     "movingTime": 2826,
@@ -2384,6 +2524,7 @@
       "SubT"
     ],
     "avgHR": 148,
+    "workoutHR": 162,
     "intensity": null,
     "distance": 8.91,
     "movingTime": 2999,
@@ -2401,6 +2542,7 @@
       "easy runs"
     ],
     "avgHR": 128,
+    "workoutHR": null,
     "intensity": null,
     "distance": 7.0,
     "movingTime": 2764,
@@ -2418,6 +2560,7 @@
       "easy runs"
     ],
     "avgHR": 140,
+    "workoutHR": null,
     "intensity": null,
     "distance": 10.33,
     "movingTime": 3785,
@@ -2433,6 +2576,7 @@
     "name": "Evening Run",
     "tags": [],
     "avgHR": null,
+    "workoutHR": null,
     "intensity": null,
     "distance": null,
     "movingTime": 218,
@@ -2450,6 +2594,7 @@
       "easy runs"
     ],
     "avgHR": 121,
+    "workoutHR": null,
     "intensity": null,
     "distance": 5.01,
     "movingTime": 2147,
@@ -2467,6 +2612,7 @@
       "easy runs"
     ],
     "avgHR": 138,
+    "workoutHR": null,
     "intensity": null,
     "distance": 8.31,
     "movingTime": 3232,
@@ -2484,6 +2630,7 @@
       "SubT"
     ],
     "avgHR": 144,
+    "workoutHR": 152,
     "intensity": null,
     "distance": 5.65,
     "movingTime": 1803,
@@ -2501,6 +2648,7 @@
       "easy runs"
     ],
     "avgHR": 121,
+    "workoutHR": null,
     "intensity": null,
     "distance": 5.42,
     "movingTime": 2184,
@@ -2518,6 +2666,7 @@
       "SubT"
     ],
     "avgHR": 138,
+    "workoutHR": 160,
     "intensity": null,
     "distance": 5.65,
     "movingTime": 2039,
@@ -2535,6 +2684,7 @@
       "easy runs"
     ],
     "avgHR": 137,
+    "workoutHR": null,
     "intensity": null,
     "distance": 1.79,
     "movingTime": 901,
@@ -2552,6 +2702,7 @@
       "RACE"
     ],
     "avgHR": 178,
+    "workoutHR": null,
     "intensity": null,
     "distance": 10.02,
     "movingTime": 2797,
@@ -2569,6 +2720,7 @@
       "easy runs"
     ],
     "avgHR": 145,
+    "workoutHR": null,
     "intensity": null,
     "distance": 0.97,
     "movingTime": 352,
@@ -2586,6 +2738,7 @@
       "easy runs"
     ],
     "avgHR": 140,
+    "workoutHR": null,
     "intensity": null,
     "distance": 2.2,
     "movingTime": 830,
@@ -2603,6 +2756,7 @@
       "easy runs"
     ],
     "avgHR": 116,
+    "workoutHR": null,
     "intensity": null,
     "distance": 5.01,
     "movingTime": 2313,
@@ -2620,6 +2774,7 @@
       "easy runs"
     ],
     "avgHR": 125,
+    "workoutHR": null,
     "intensity": null,
     "distance": 8.58,
     "movingTime": 3599,
@@ -2637,6 +2792,7 @@
       "SubT"
     ],
     "avgHR": 140,
+    "workoutHR": 149,
     "intensity": null,
     "distance": 9.34,
     "movingTime": 3269,
@@ -2654,6 +2810,7 @@
       "easy runs"
     ],
     "avgHR": 125,
+    "workoutHR": null,
     "intensity": null,
     "distance": 8.75,
     "movingTime": 3623,
@@ -2671,6 +2828,7 @@
       "SubT"
     ],
     "avgHR": 143,
+    "workoutHR": 152,
     "intensity": null,
     "distance": 8.47,
     "movingTime": 2946,
@@ -2688,6 +2846,7 @@
       "easy runs"
     ],
     "avgHR": 115,
+    "workoutHR": null,
     "intensity": null,
     "distance": 2.96,
     "movingTime": 1409,
@@ -2705,6 +2864,7 @@
       "easy runs"
     ],
     "avgHR": 99,
+    "workoutHR": null,
     "intensity": null,
     "distance": 1.58,
     "movingTime": 1617,
@@ -2722,6 +2882,7 @@
       "easy runs"
     ],
     "avgHR": 131,
+    "workoutHR": null,
     "intensity": null,
     "distance": 7.25,
     "movingTime": 2999,
@@ -2739,6 +2900,7 @@
       "easy runs"
     ],
     "avgHR": 133,
+    "workoutHR": null,
     "intensity": null,
     "distance": 7.0,
     "movingTime": 2800,
@@ -2756,6 +2918,7 @@
       "SubT"
     ],
     "avgHR": 144,
+    "workoutHR": 162,
     "intensity": null,
     "distance": 6.12,
     "movingTime": 2413,
@@ -2773,6 +2936,7 @@
       "easy runs"
     ],
     "avgHR": 124,
+    "workoutHR": null,
     "intensity": null,
     "distance": 5.2,
     "movingTime": 2285,
@@ -2790,6 +2954,7 @@
       "easy runs"
     ],
     "avgHR": 127,
+    "workoutHR": null,
     "intensity": null,
     "distance": 7.0,
     "movingTime": 3007,
@@ -2807,6 +2972,7 @@
       "easy runs"
     ],
     "avgHR": 150,
+    "workoutHR": null,
     "intensity": null,
     "distance": 0.53,
     "movingTime": 203,
@@ -2824,6 +2990,7 @@
       "RACE"
     ],
     "avgHR": 172,
+    "workoutHR": null,
     "intensity": null,
     "distance": 2.41,
     "movingTime": 629,
@@ -2841,6 +3008,7 @@
       "easy runs"
     ],
     "avgHR": 147,
+    "workoutHR": null,
     "intensity": null,
     "distance": 3.07,
     "movingTime": 1066,
@@ -2858,6 +3026,7 @@
       "easy runs"
     ],
     "avgHR": 128,
+    "workoutHR": null,
     "intensity": null,
     "distance": 15.0,
     "movingTime": 6047,
@@ -2875,6 +3044,7 @@
       "easy runs"
     ],
     "avgHR": 134,
+    "workoutHR": null,
     "intensity": null,
     "distance": 7.33,
     "movingTime": 3023,
@@ -2892,6 +3062,7 @@
       "SubT"
     ],
     "avgHR": 151,
+    "workoutHR": 162,
     "intensity": null,
     "distance": 8.58,
     "movingTime": 3156,
@@ -2909,6 +3080,7 @@
       "easy runs"
     ],
     "avgHR": 129,
+    "workoutHR": null,
     "intensity": null,
     "distance": 9.41,
     "movingTime": 4112,
@@ -2926,6 +3098,7 @@
       "SubT"
     ],
     "avgHR": 142,
+    "workoutHR": 154,
     "intensity": null,
     "distance": 8.44,
     "movingTime": 3111,
@@ -2943,6 +3116,7 @@
       "SubT"
     ],
     "avgHR": 144,
+    "workoutHR": 154,
     "intensity": null,
     "distance": 8.71,
     "movingTime": 3090,
@@ -2960,6 +3134,7 @@
       "easy runs"
     ],
     "avgHR": 133,
+    "workoutHR": null,
     "intensity": null,
     "distance": 13.65,
     "movingTime": 5447,
@@ -2977,6 +3152,7 @@
       "easy runs"
     ],
     "avgHR": 129,
+    "workoutHR": null,
     "intensity": null,
     "distance": 6.78,
     "movingTime": 2706,
@@ -2994,6 +3170,7 @@
       "SubT"
     ],
     "avgHR": 145,
+    "workoutHR": 156,
     "intensity": null,
     "distance": 9.52,
     "movingTime": 3414,
@@ -3011,6 +3188,7 @@
       "easy runs"
     ],
     "avgHR": 126,
+    "workoutHR": null,
     "intensity": null,
     "distance": 6.26,
     "movingTime": 2702,
@@ -3028,6 +3206,7 @@
       "easy runs"
     ],
     "avgHR": 124,
+    "workoutHR": null,
     "intensity": null,
     "distance": 4.0,
     "movingTime": 1850,
@@ -3045,6 +3224,7 @@
       "SubT"
     ],
     "avgHR": 139,
+    "workoutHR": 136,
     "intensity": null,
     "distance": 8.62,
     "movingTime": 3197,
@@ -3062,6 +3242,7 @@
       "easy runs"
     ],
     "avgHR": 131,
+    "workoutHR": null,
     "intensity": null,
     "distance": 7.63,
     "movingTime": 3045,
@@ -3079,6 +3260,7 @@
       "SubT"
     ],
     "avgHR": 145,
+    "workoutHR": 142,
     "intensity": null,
     "distance": 12.03,
     "movingTime": 4536,
@@ -3096,6 +3278,7 @@
       "SubT"
     ],
     "avgHR": 146,
+    "workoutHR": 141,
     "intensity": null,
     "distance": 8.35,
     "movingTime": 2915,
@@ -3113,6 +3296,7 @@
       "easy runs"
     ],
     "avgHR": 123,
+    "workoutHR": null,
     "intensity": null,
     "distance": 9.2,
     "movingTime": 4047,
@@ -3130,6 +3314,7 @@
       "SubT"
     ],
     "avgHR": 140,
+    "workoutHR": 128,
     "intensity": null,
     "distance": 6.4,
     "movingTime": 2345,
@@ -3147,6 +3332,7 @@
       "SubT"
     ],
     "avgHR": 147,
+    "workoutHR": 140,
     "intensity": null,
     "distance": 14.01,
     "movingTime": 5135,
@@ -3164,6 +3350,7 @@
       "easy runs"
     ],
     "avgHR": 135,
+    "workoutHR": null,
     "intensity": null,
     "distance": 15.01,
     "movingTime": 6161,
@@ -3181,6 +3368,7 @@
       "easy runs"
     ],
     "avgHR": 130,
+    "workoutHR": null,
     "intensity": null,
     "distance": 6.73,
     "movingTime": 2699,
@@ -3198,6 +3386,7 @@
       "SubT"
     ],
     "avgHR": 153,
+    "workoutHR": 153,
     "intensity": null,
     "distance": 8.47,
     "movingTime": 2961,
@@ -3215,6 +3404,7 @@
       "easy runs"
     ],
     "avgHR": 132,
+    "workoutHR": null,
     "intensity": null,
     "distance": 8.45,
     "movingTime": 3384,
@@ -3232,6 +3422,7 @@
       "SubT"
     ],
     "avgHR": 148,
+    "workoutHR": 137,
     "intensity": null,
     "distance": 14.73,
     "movingTime": 5253,
@@ -3249,6 +3440,7 @@
       "easy runs"
     ],
     "avgHR": 132,
+    "workoutHR": null,
     "intensity": null,
     "distance": 16.25,
     "movingTime": 6758,
@@ -3266,6 +3458,7 @@
       "SubT"
     ],
     "avgHR": 142,
+    "workoutHR": 136,
     "intensity": null,
     "distance": 7.19,
     "movingTime": 2565,
@@ -3283,6 +3476,7 @@
       "easy runs"
     ],
     "avgHR": 143,
+    "workoutHR": null,
     "intensity": null,
     "distance": 9.1,
     "movingTime": 3551,
@@ -3300,6 +3494,7 @@
       "SubT"
     ],
     "avgHR": 141,
+    "workoutHR": 143,
     "intensity": null,
     "distance": 4.69,
     "movingTime": 1701,
@@ -3317,6 +3512,7 @@
       "easy runs"
     ],
     "avgHR": 132,
+    "workoutHR": null,
     "intensity": null,
     "distance": 5.0,
     "movingTime": 1900,
@@ -3334,6 +3530,7 @@
       "RACE"
     ],
     "avgHR": 180,
+    "workoutHR": null,
     "intensity": null,
     "distance": 10.18,
     "movingTime": 2846,
@@ -3351,6 +3548,7 @@
       "easy runs"
     ],
     "avgHR": 142,
+    "workoutHR": null,
     "intensity": null,
     "distance": 2.29,
     "movingTime": 888,
@@ -3368,6 +3566,7 @@
       "easy runs"
     ],
     "avgHR": 121,
+    "workoutHR": null,
     "intensity": null,
     "distance": 5.45,
     "movingTime": 2339,
@@ -3385,6 +3584,7 @@
       "easy runs"
     ],
     "avgHR": 126,
+    "workoutHR": null,
     "intensity": null,
     "distance": 2.67,
     "movingTime": 1218,
@@ -3402,6 +3602,7 @@
       "easy runs"
     ],
     "avgHR": 121,
+    "workoutHR": null,
     "intensity": null,
     "distance": 6.24,
     "movingTime": 2698,
@@ -3419,6 +3620,7 @@
       "easy runs"
     ],
     "avgHR": 130,
+    "workoutHR": null,
     "intensity": null,
     "distance": 6.86,
     "movingTime": 2699,
@@ -3436,6 +3638,7 @@
       "SubT"
     ],
     "avgHR": 144,
+    "workoutHR": 147,
     "intensity": null,
     "distance": 8.29,
     "movingTime": 3059,
@@ -3453,6 +3656,7 @@
       "easy runs"
     ],
     "avgHR": 127,
+    "workoutHR": null,
     "intensity": null,
     "distance": 6.65,
     "movingTime": 2700,
@@ -3470,6 +3674,7 @@
       "easy runs"
     ],
     "avgHR": 134,
+    "workoutHR": null,
     "intensity": null,
     "distance": 10.39,
     "movingTime": 4226,
@@ -3487,6 +3692,7 @@
       "SubT"
     ],
     "avgHR": 143,
+    "workoutHR": 140,
     "intensity": null,
     "distance": 8.49,
     "movingTime": 3059,
@@ -3504,6 +3710,7 @@
       "easy runs"
     ],
     "avgHR": 129,
+    "workoutHR": null,
     "intensity": null,
     "distance": 6.74,
     "movingTime": 2699,
@@ -3521,6 +3728,7 @@
       "SubT"
     ],
     "avgHR": 146,
+    "workoutHR": 144,
     "intensity": null,
     "distance": 8.75,
     "movingTime": 3148,
@@ -3538,6 +3746,7 @@
       "easy runs"
     ],
     "avgHR": 126,
+    "workoutHR": null,
     "intensity": null,
     "distance": 6.93,
     "movingTime": 2699,
@@ -3555,6 +3764,7 @@
       "SubT"
     ],
     "avgHR": 144,
+    "workoutHR": 146,
     "intensity": null,
     "distance": 8.5,
     "movingTime": 2999,
@@ -3572,6 +3782,7 @@
       "easy runs"
     ],
     "avgHR": 129,
+    "workoutHR": null,
     "intensity": null,
     "distance": 6.68,
     "movingTime": 2696,
@@ -3589,6 +3800,7 @@
       "easy runs"
     ],
     "avgHR": 142,
+    "workoutHR": null,
     "intensity": null,
     "distance": 11.36,
     "movingTime": 4491,
@@ -3606,6 +3818,7 @@
       "SubT"
     ],
     "avgHR": 140,
+    "workoutHR": 136,
     "intensity": null,
     "distance": 8.7,
     "movingTime": 3059,
@@ -3623,6 +3836,7 @@
       "easy runs"
     ],
     "avgHR": 125,
+    "workoutHR": null,
     "intensity": null,
     "distance": 6.54,
     "movingTime": 2699,
@@ -3640,6 +3854,7 @@
       "easy runs"
     ],
     "avgHR": 133,
+    "workoutHR": null,
     "intensity": null,
     "distance": 10.01,
     "movingTime": 4222,
@@ -3657,6 +3872,7 @@
       "SubT"
     ],
     "avgHR": 138,
+    "workoutHR": 140,
     "intensity": null,
     "distance": 7.72,
     "movingTime": 2819,
@@ -3674,6 +3890,7 @@
       "easy runs"
     ],
     "avgHR": 130,
+    "workoutHR": null,
     "intensity": null,
     "distance": 9.53,
     "movingTime": 3872,
@@ -3691,6 +3908,7 @@
       "SubT"
     ],
     "avgHR": 140,
+    "workoutHR": 137,
     "intensity": null,
     "distance": 8.31,
     "movingTime": 3000,
@@ -3708,6 +3926,7 @@
       "easy runs"
     ],
     "avgHR": 134,
+    "workoutHR": null,
     "intensity": null,
     "distance": 6.01,
     "movingTime": 2299,
@@ -3725,6 +3944,7 @@
       "easy runs"
     ],
     "avgHR": 131,
+    "workoutHR": null,
     "intensity": null,
     "distance": 5.98,
     "movingTime": 2412,
@@ -3742,6 +3962,7 @@
       "SubT"
     ],
     "avgHR": 142,
+    "workoutHR": 139,
     "intensity": null,
     "distance": 8.44,
     "movingTime": 3027,
@@ -3759,6 +3980,7 @@
       "easy runs"
     ],
     "avgHR": 132,
+    "workoutHR": null,
     "intensity": null,
     "distance": 10.01,
     "movingTime": 3992,
@@ -3776,6 +3998,7 @@
       "SubT"
     ],
     "avgHR": 144,
+    "workoutHR": 137,
     "intensity": null,
     "distance": 8.01,
     "movingTime": 2786,
@@ -3793,6 +4016,7 @@
       "easy runs"
     ],
     "avgHR": 136,
+    "workoutHR": null,
     "intensity": null,
     "distance": 6.9,
     "movingTime": 2698,
@@ -3810,6 +4034,7 @@
       "easy runs"
     ],
     "avgHR": 127,
+    "workoutHR": null,
     "intensity": null,
     "distance": 6.86,
     "movingTime": 2636,
@@ -3827,6 +4052,7 @@
       "SubT"
     ],
     "avgHR": 143,
+    "workoutHR": 141,
     "intensity": null,
     "distance": 8.29,
     "movingTime": 2996,
@@ -3844,6 +4070,7 @@
       "easy runs"
     ],
     "avgHR": 126,
+    "workoutHR": null,
     "intensity": null,
     "distance": 7.43,
     "movingTime": 3091,
@@ -3861,6 +4088,7 @@
       "SubT"
     ],
     "avgHR": 144,
+    "workoutHR": 138,
     "intensity": null,
     "distance": 8.02,
     "movingTime": 2845,
@@ -3878,6 +4106,7 @@
       "easy runs"
     ],
     "avgHR": 129,
+    "workoutHR": null,
     "intensity": null,
     "distance": 6.18,
     "movingTime": 2479,
@@ -3895,6 +4124,7 @@
       "SubT"
     ],
     "avgHR": 153,
+    "workoutHR": 153,
     "intensity": null,
     "distance": 5.81,
     "movingTime": 2042,
@@ -3912,6 +4142,7 @@
       "easy runs"
     ],
     "avgHR": 135,
+    "workoutHR": null,
     "intensity": null,
     "distance": 11.57,
     "movingTime": 4499,
@@ -3929,6 +4160,7 @@
       "easy runs"
     ],
     "avgHR": 129,
+    "workoutHR": null,
     "intensity": null,
     "distance": 6.97,
     "movingTime": 2699,

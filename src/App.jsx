@@ -110,7 +110,7 @@ function ScatterTooltip({ active, payload }) {
     <div style={{ background:"#fff", border:"1px solid #e5e5e5", borderRadius:8, padding:"10px 14px", fontSize:13 }}>
       <div style={{ fontWeight:500, marginBottom:4 }}>{d.date} · Wk {d.week}</div>
       <div>Pace: {fmtPace(d.x)}/km</div>
-      <div>HR: {d.y} bpm</div>
+      <div>HR: {d.y} bpm <span style={{fontSize:11,color:"#aaa"}}>{d.workoutHR ? "workout only" : "session avg"}</span></div>
       {d.reps && <div>Reps: {d.reps}×</div>}
     </div>
   );
@@ -212,7 +212,7 @@ function SubPanel({ data }) {
   const filtered       = filterDur === "all" ? validData : validData.filter(d => d.duration === Number(filterDur));
 
   const allPaces  = validData.map(d => d.intervalPace);
-  const avgHRAll  = validData.reduce((s, d) => s + d.avgHR, 0) / validData.length;
+  const avgHRAll  = validData.reduce((s, d) => s + (d.workoutHR ?? d.avgHR), 0) / validData.length;
 
   const durSummary = activeDurations.map(dur => {
     const g = validData.filter(d => d.duration === dur);
@@ -228,7 +228,7 @@ function SubPanel({ data }) {
     dur, color: DUR_COLORS[dur] || "#888", label: DUR_LABELS[dur] || `${dur} min`,
     points: (filterDur === "all" || Number(filterDur) === dur)
       ? validData.filter(d => d.duration === dur)
-          .map(d => ({ x: d.intervalPace, y: d.avgHR, date: d.date, week: d.week, reps: d.reps }))
+          .map(d => ({ x: d.intervalPace, y: d.workoutHR ?? d.avgHR, date: d.date, week: d.week, reps: d.reps, workoutHR: d.workoutHR, avgHR: d.avgHR }))
       : [],
   })).filter(s => s.points.length > 0);
 
@@ -352,7 +352,12 @@ function SubPanel({ data }) {
                 </td>
                 <td style={{ padding:"5px 8px" }}>{d.reps ? `${d.reps}×` : "—"}</td>
                 <td style={{ padding:"5px 8px" }}>{fmtPace(d.intervalPace)}/km</td>
-                <td style={{ padding:"5px 8px" }}>{d.avgHR} bpm</td>
+                <td style={{ padding:"5px 8px" }}>
+                  {d.workoutHR ?? d.avgHR} bpm
+                  {d.workoutHR && d.workoutHR !== d.avgHR &&
+                    <span style={{ fontSize:10, color:"#aaa", marginLeft:4 }}>(session: {d.avgHR})</span>
+                  }
+                </td>
                 <td style={{ padding:"5px 8px", color: d.intensity > 88 ? "#D85A30" : "inherit" }}>
                   {d.intensity ? d.intensity.toFixed(1) + "%" : "—"}
                 </td>
@@ -507,7 +512,7 @@ export default function App() {
       fontFamily:"-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif", color:"#111",
     }}>
       <div style={{ display:"flex", justifyContent:"space-between", alignItems:"flex-start", marginBottom:4 }}>
-        <h1 style={{ fontSize:22, fontWeight:500 }}>Training Dashboard</h1>
+        <h1 style={{ fontSize:22, fontWeight:500 }}>Beau NSA Dashboard</h1>
         {lastUpdated && (
           <span style={{ fontSize:12, color:"#aaa", marginTop:6 }}>
             Updated to {lastUpdated}
